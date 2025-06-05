@@ -1,0 +1,1558 @@
+S.No,name,title,male,culture,house,book1,book2,book3,book4,book5,isMarried,isNoble,age,isAlive,have_high_title,have_age,isPopular,boolDeadRelations
+1,Viserys II Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+2,Walder Frey,Lord,1,Rivermen,House Frey,1,1,1,1,1,1,1,97.0,1,1,1,1,1
+3,Addison Hill,no_title,1,unknown,House Swyft,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+4,Aemma Arryn,no_title,0,unknown,House Arryn,0,0,0,0,0,1,1,23.0,0,0,1,0,0
+5,Sylva Santagar,no_title,0,Dornish,House Santagar,0,0,0,1,0,1,1,29.0,1,0,1,0,0
+6,Tommen Baratheon,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,1,1
+7,Valarr Targaryen,King,1,Valyrian,House Targaryen,0,0,0,0,0,1,1,26.0,0,1,1,0,0
+8,Viserys I Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+9,Wilbert,no_title,1,unknown,unknown,0,0,1,0,0,0,1,42.0,0,0,0,0,0
+10,Wilbert Osgrey,no_title,1,unknown,House Osgrey,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+11,Will,no_title,1,unknown,Night's Watch,1,1,0,0,0,0,0,19.0,0,0,0,0,0
+12,Will (orphan),no_title,0,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+13,Will (squire),no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+14,Will (Standfast),no_title,0,unknown,House Osgrey,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+15,Will (Treb),no_title,1,unknown,House Osgrey,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+16,Will Humble,no_title,1,Ironborn,House Humble,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+17,Willam,no_title,1,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+18,Willem Wylde,no_title,1,unknown,House Wylde,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+19,Willifer,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+20,Willit,no_title,1,unknown,House Swyft,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+21,Willis Wode,no_title,1,unknown,House Wode,1,0,0,1,0,0,1,42.0,1,0,0,0,0
+22,Willis Fell,no_title,0,unknown,House Fell,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+23,Willow Heddle,no_title,0,unknown,Brotherhood Without Banners,0,0,0,1,0,0,0,16.0,1,0,1,0,0
+24,Willum,no_title,1,unknown,unknown,1,0,0,0,0,0,1,42.0,1,0,0,0,0
+25,Wolmer,no_title,1,unknown,House Webber,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+26,Willow Witch-eye,no_title,0,Free Folk,unknown,0,0,0,0,1,0,0,19.0,0,0,0,0,0
+27,Woth,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+28,Wulfe,no_title,1,Ironborn,House Greyjoy,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+29,Wyl the Whittler,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+30,Wyl (guard),no_title,0,Northmen,House Stark,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+31,Wyl Waynwood,no_title,0,unknown,House Waynwood,0,0,0,0,0,0,0,19.0,0,0,0,0,0
+32,Wun Weg Wun Dar Wun,no_title,1,unknown,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+33,Wylla,no_title,1,unknown,House Dayne,1,0,1,0,0,0,0,19.0,1,0,0,0,0
+34,Wynafryd Manderly,no_title,0,unknown,House Manderly,0,0,0,1,1,0,0,25.0,1,0,1,0,0
+35,Xhondo,no_title,1,Summer Isles,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+36,Ygon Farwynd,no_title,1,unknown,House Farwynd of the Lonely Light,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+37,Yna,no_title,1,unknown,Happy Port,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+38,Yohn Farwynd,no_title,1,Ironborn,House Farwynd of the Lonely Light,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+39,Yorkel,no_title,0,unknown,House Targaryen,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+40,Yorko Terys,no_title,1,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+41,Yormwell,no_title,0,unknown,unknown,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+42,Young Henly,no_title,1,unknown,Night's Watch,0,0,1,0,0,0,0,59.0,0,0,1,0,0
+43,Ysilla,no_title,0,unknown,unknown,0,0,0,0,1,1,0,19.0,1,0,0,0,0
+44,Zarabelo,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+45,Zei,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+46,Zekko,no_title,1,Dothraki,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+47,Zharaq zo Loraq,no_title,1,Ghiscari,House of Loraq,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+48,Wenda,no_title,0,unknown,Kingswood Brotherhood,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+49,Wex Pyke,no_title,1,Ironborn,House Botley,0,1,1,1,1,0,0,19.0,1,0,1,0,0
+50,Timett,no_title,1,Vale mountain clans,Burned Men,1,1,1,0,1,0,1,27.0,1,0,1,0,0
+51,Joffrey Baratheon,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+52,Laenor Velaryon,no_title,1,Valyrian,House Velaryon,0,0,0,0,0,1,1,26.0,0,0,1,0,0
+53,Leobald Tallhart,no_title,1,Northmen,House Tallhart,0,1,1,1,1,1,1,42.0,0,0,0,0,0
+54,Maegor I Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,0
+55,Margaery Tyrell,no_title,0,Reach,House Tyrell,1,1,1,1,1,1,1,22.0,1,0,1,1,1
+56,Naerys Targaryen,no_title,0,Valyrian,House Targaryen,1,0,0,0,0,1,1,100.0,0,0,1,0,1
+57,Quence,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+58,Quellon Botley,no_title,1,Ironborn,House Botley,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+59,Quellon Greyjoy,Lord,1,Ironborn,House Greyjoy,0,0,0,1,0,1,1,42.0,0,1,0,0,0
+60,Quentyn Blackwood,Lord,0,unknown,House Blackwood,0,0,0,0,0,0,1,35.0,0,1,0,0,0
+61,Quenton Greyjoy,no_title,1,Ironborn,House Greyjoy,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+62,Quhuru Mo,no_title,1,Summer Isles,unknown,0,1,0,1,0,0,0,19.0,1,0,0,0,0
+63,Quickfinger,no_title,1,unknown,House Blackfyre,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+64,Quill,no_title,1,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+65,Quentin Tyrell,no_title,0,unknown,House Tyrell,0,0,1,1,0,0,1,35.0,1,0,0,0,0
+66,Quort,no_title,1,unknown,wildling,0,0,1,0,0,0,0,14.0,0,0,1,0,0
+67,Qyle,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+68,Rafe,no_title,0,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+69,Racallio Ryndoon,no_title,1,Tyroshi,Kingdom of the Three Daughters,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+70,Ragnor Pyke,no_title,0,Ironborn,House Greyjoy,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+71,Rainbow Knight,no_title,0,unknown,unknown,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+72,Randa,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+73,Rast,no_title,1,unknown,Night's Watch,1,1,1,0,0,0,0,19.0,0,0,0,0,0
+74,Rawney,no_title,1,unknown,unknown,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+75,Raymar Royce,Lord,1,unknown,House Royce of the Gates of the Moon,0,0,1,0,0,0,1,42.0,1,1,0,0,0
+76,Raymond Nayland,no_title,0,unknown,House Nayland,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+77,Raymund Tyrell,no_title,0,unknown,House Tyrell,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+78,Red Oarsman,no_title,0,Ironborn,unknown,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+79,Red Lamb,no_title,1,Lhazarene,House Targaryen,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+80,Redtusk,no_title,1,unknown,unknown,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+81,Red Rolfe,no_title,1,unknown,House Greyjoy,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+82,Redwyn,no_title,0,unknown,Night's Watch,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+83,Reynard Webber,Lord,0,unknown,House Webber,0,0,0,0,0,0,1,35.0,1,1,0,0,0
+84,Reysen,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+85,Rhaegel Targaryen,Prince,1,Valyrian,House Targaryen,0,0,0,0,0,1,1,42.0,0,1,1,0,1
+86,Rhaena Targaryen (daughter of Daemon),Lady,0,unknown,House Targaryen,0,0,0,0,0,1,1,100.0,0,1,1,0,0
+87,Rhaena Targaryen (daughter of Aegon III),no_title,0,Valyrian,House Targaryen,0,0,0,0,0,0,1,100.0,0,0,1,0,0
+88,Rhaenys Targaryen,no_title,0,Valyrian,House Targaryen,1,0,0,0,0,1,1,35.0,0,0,1,0,1
+89,Rhaenys Targaryen (daughter of Rhaegar),no_title,0,unknown,House Targaryen,1,1,1,1,1,0,1,3.0,0,0,1,0,1
+90,Rhialta Vance,no_title,0,unknown,House Vance of Wayfarer's Rest,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+91,Rhaenys Targaryen (daughter of Aemon),no_title,0,Valyrian,House Targaryen,0,0,0,0,0,1,1,55.0,0,0,1,0,0
+92,Rhonda Rowan,no_title,0,unknown,House Rowan,0,0,0,1,0,1,0,19.0,1,0,0,0,0
+93,Richard Farrow,no_title,0,unknown,House Farrow,0,0,0,1,0,0,1,35.0,0,0,0,0,0
+94,Richard Lonmouth,no_title,1,unknown,House Lonmouth,0,0,1,0,0,0,1,42.0,1,0,0,0,0
+95,Rigney,no_title,1,unknown,unknown,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+96,Rob,no_title,1,unknown,House Osgrey,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+97,Rickard Tyrell,no_title,1,unknown,House Tyrell,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+98,Robb Reyne,no_title,1,unknown,House Reyne,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+99,Robert Ashford,no_title,1,Reach,House Ashford,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+100,Robert Brax (son of Flement),no_title,1,unknown,House Brax,0,1,1,1,0,0,0,15.0,1,0,1,0,0
+101,Robert Paege,no_title,0,unknown,House Paege,0,0,1,0,0,0,1,35.0,1,0,0,0,0
+102,Robb Stark,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+103,Robin,no_title,1,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+104,Robert Frey (son of Raymund),no_title,1,unknown,House Frey,0,1,1,1,0,0,0,22.0,1,0,1,0,0
+105,Robin Greyjoy,no_title,1,Ironborn,House Greyjoy,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+106,Robin Hollard,no_title,1,unknown,House Hollard,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+107,Rodrik Freeborn,no_title,1,Ironborn,unknown,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+108,Roelle,no_title,0,unknown,House Tarth,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+109,Rodrik Stark (son of Beron),no_title,1,Northmen,House Stark,0,0,0,0,1,1,0,19.0,1,0,0,0,0
+110,Roger of Pennytree,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,0,0
+111,Roggo,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+112,Roger Ryswell,no_title,1,Northmen,House Ryswell,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+113,Rolder,no_title,1,unknown,House Lannister,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+114,Roland Crakehall (Kingsguard),no_title,1,unknown,House Crakehall,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+115,Rolfe,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+116,Rolland Darklyn,no_title,1,unknown,House Darklyn,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+117,Rollam Westerling,no_title,1,unknown,House Westerling,0,0,1,1,0,0,0,15.0,1,0,1,0,0
+118,Romny Weaver,no_title,1,Ironborn,House Weaver,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+119,Ronald Storm,no_title,1,unknown,House Connington,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+120,Ronnel Stout,no_title,0,Northmen,House Stout,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+121,Ronnel Harclay,no_title,0,unknown,House Harclay,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+122,Roone,no_title,1,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,1,0,0
+123,Roone (maester),no_title,1,unknown,unknown,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+124,Roryn Drumm,no_title,0,Ironborn,House Drumm,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+125,Roose Ryswell,no_title,1,Northmen,House Ryswell,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+126,Rosamund Lannister,no_title,0,unknown,House Lannister of Lannisport,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+127,Rosey,no_title,0,unknown,unknown,0,0,0,1,0,0,0,21.0,1,0,1,0,0
+128,Rowan,no_title,1,Free folk,unknown,0,0,0,0,1,0,0,19.0,0,0,0,0,0
+129,Rudge,no_title,0,unknown,Night's Watch,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+130,Runciter,no_title,1,unknown,unknown,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+131,Rupert Crabb,no_title,0,unknown,House Crabb,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+132,Rus,no_title,0,Ironmen,Drowned men,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+133,Rusty Flowers,no_title,1,unknown,Night's Watch,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+134,Ryam,no_title,1,unknown,unknown,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+135,Ryk,no_title,1,Free folk,unknown,0,0,1,1,1,1,0,19.0,1,0,0,0,0
+136,Ryles,no_title,0,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+137,Rymolf,no_title,0,Ironborn,House Greyjoy,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+138,S'vrone,no_title,0,Braavosi,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+139,Saathos,no_title,0,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+140,Sailor's Wife,no_title,0,unknown,Happy Port,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+141,Sallor,no_title,1,Qartheen,Stormcrows,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+142,Salloreon,no_title,1,unknown,Antler Men,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+143,Sam Stoops,no_title,1,unknown,House Osgrey,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+144,Samwell Spicer,no_title,1,unknown,House Spicer,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+145,Sargon Botley,no_title,1,Ironborn,House Botley,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+146,Scarb,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+147,Sawwood,no_title,1,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+148,Sedgekins,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+149,Sefton Staunton,no_title,1,unknown,House Staunton,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+150,Serra,no_title,0,Lysene,unknown,0,0,0,0,1,1,0,19.0,1,0,0,0,0
+151,Sharna,no_title,0,unknown,unknown,0,0,1,1,0,1,0,19.0,1,0,0,0,0
+152,Shella,no_title,0,unknown,unknown,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+153,Sherrit,King,0,unknown,unknown,0,0,1,0,0,0,1,35.0,1,1,0,0,0
+154,Shortear,no_title,0,westermen,House Lannister,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+155,Shyra,no_title,0,Northmen,House Stark,0,1,0,1,0,0,0,19.0,1,0,0,0,0
+156,Sigfry Stonetree,no_title,1,Ironborn,House Stonetree,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+157,Sigrin,no_title,1,Ironborn,House Greyjoy,0,1,1,0,0,0,0,19.0,1,0,0,0,0
+158,Simon Leygood,no_title,0,unknown,House Leygood,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+159,Sky Blue Su,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+160,Skinner,no_title,1,unknown,House Bolton,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+161,Skittrick,no_title,0,Northmen,House Stark,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+162,Skyte,no_title,1,Ironborn,unknown,0,1,1,1,0,0,0,19.0,1,0,0,0,0
+163,Sloey,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+164,Spare Boot,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+165,Softfoot,no_title,1,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+166,Spotted Pate of Maidenpool,no_title,1,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+167,Squint,no_title,0,unknown,House Greyjoy,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+168,Squirrel,no_title,0,Free Folk,unknown,0,0,0,0,1,0,0,19.0,0,0,0,0,0
+169,Steffarion Sparr,no_title,1,Ironborn,House Sparr,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+170,Stafford Lannister,no_title,1,Westerman,House Lannister,1,1,1,1,1,1,1,53.0,0,0,1,0,1
+171,Steffon Fossoway,no_title,1,unknown,House Fossoway of Cider Hall,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+172,Steffon Hollard,no_title,0,unknown,House Hollard,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+173,Stannis Baratheon,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,1,1
+174,Steffon Varner,Lord,1,unknown,House Varner,0,1,0,0,0,0,1,42.0,1,1,0,0,0
+175,Stone Thumbs,no_title,0,Free Folk,unknown,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+176,Stonehand,no_title,0,Ironborn,unknown,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+177,Sybassion,no_title,1,Qarth,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+178,Sylas,no_title,0,unknown,House Greyjoy,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+179,Symon Stripeback,no_title,1,unknown,House Targaryen,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+180,Symond Botley,no_title,1,Ironborn,House Botley,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+181,Tagganaro,no_title,1,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+182,Tal Toraq,no_title,1,Summer Isles,House Targaryen,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+183,Talea,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+184,Talla Tarly,no_title,1,unknown,House Tarly,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+185,Tansy,no_title,0,unknown,Peach,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+186,Tansy (orphan),no_title,0,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+187,Tarber,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+188,Terrance Lynderly,no_title,0,unknown,House Lynderly,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+189,Terro,no_title,1,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+190,Theo Frey,no_title,1,unknown,House Frey,1,0,0,0,0,0,1,42.0,1,0,0,0,0
+191,Theobald,no_title,1,unknown,unknown,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+192,Thistle,no_title,0,Free Folk,unknown,0,0,0,0,1,0,0,19.0,0,0,0,0,0
+193,Theon Stark,no_title,1,Northmen,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+194,Thormor Ironmaker,no_title,1,Ironborn,House Ironmaker,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+195,Tim Stone,no_title,0,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+196,Timon,no_title,0,unknown,unknown,0,1,1,0,0,0,1,35.0,1,0,0,0,0
+197,Timett (father),no_title,0,Vale mountain clans,Burned Men,1,1,0,0,1,0,0,19.0,1,0,0,0,0
+198,Timoth,no_title,1,unknown,House Martell,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+199,Tobbot,no_title,0,unknown,House Clegane,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+200,Toefinger,no_title,1,Free Folk,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+201,Todric,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+202,Tom Costayne,no_title,0,unknown,House Costayne,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+203,TomToo,no_title,0,Northmen,House Stark,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+204,Tommard Heddle,no_title,1,unknown,House Heddle,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+205,Toregg,no_title,1,Free Folk,unknown,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+206,Torrek,no_title,0,Vale mountain clans,Stone Crows,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+207,Tothmure,no_title,1,unknown,unknown,0,1,0,0,0,0,1,42.0,0,0,0,0,0
+208,Torrhen Stark,no_title,1,Northmen,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+209,Tregar,no_title,0,unknown,House Lannister,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+210,Tregar Ormollen,no_title,1,Lyseni,unknown,0,1,0,1,0,0,0,19.0,1,0,0,0,0
+211,Tristan Ryger,no_title,0,unknown,House Ryger,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+212,Tristifer V Mudd,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+213,Tristimun,no_title,1,unknown,Sea watch,0,0,1,0,0,0,1,42.0,1,0,0,0,0
+214,Tristifer IV Mudd,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,0,0
+215,Tuffleberry,no_title,0,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+216,Tumberjon,no_title,0,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+217,Tumco Lho,no_title,1,Ghiscari,unknown,0,0,0,0,1,0,1,42.0,1,0,0,0,0
+218,Turnip,no_title,0,northmen,House Stark,0,1,0,1,0,0,0,19.0,1,0,0,0,0
+219,Turquin,no_title,1,unknown,unknown,0,0,1,0,0,0,1,42.0,1,0,0,0,0
+220,Tybero Istarion,no_title,1,unknown,Second Sons,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+221,Tymor,no_title,1,unknown,House Greyjoy,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+222,Ulf the Ill,no_title,0,Ironborn,House Greyjoy,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+223,Tywin Frey (son of Raymund),no_title,1,unknown,House Frey,0,0,0,1,0,0,0,6.0,1,0,1,0,0
+224,Uller,no_title,1,Ironborn,House Greyjoy,0,1,1,1,0,0,0,19.0,1,0,0,0,0
+225,Umar,no_title,0,Vale mountain clans,Moon Brothers,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+226,Umfred,no_title,0,unknown,House Baelish,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+227,Umma,no_title,0,unknown,Faceless Men,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+228,Urreg,no_title,0,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+229,Urek Ironmaker,no_title,1,Ironborn,House Ironmaker,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+230,Urrathon,no_title,0,Qartheen,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+231,Urzen,no_title,1,Ironborn,House Greyjoy,0,1,1,0,0,0,0,19.0,1,0,0,0,0
+232,Urron Greyiron,no_title,1,Ironborn,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+233,Urrigon Greyjoy,no_title,1,Ironborn,House Greyjoy,0,0,0,1,0,0,0,37.0,1,0,1,0,0
+234,Uthor Underleaf,no_title,1,unknown,unknown,0,0,0,0,0,0,1,100.0,0,0,1,0,0
+235,Utt,no_title,1,unknown,Brave Companions,0,1,1,0,0,0,0,19.0,0,0,0,0,0
+236,Vaellyn,no_title,1,unknown,unknown,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+237,Varly,no_title,0,northmen,House Stark,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+238,Veiled Lady,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+239,Vickon Botley,no_title,1,Ironborn,House Botley,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+240,Violet,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+241,Victor Tyrell,no_title,0,unknown,House Tyrell,0,0,1,1,0,0,1,35.0,1,0,0,0,0
+242,Walda Frey (daughter of Lothar),no_title,0,unknown,House Frey,0,1,1,1,0,0,0,11.0,1,0,1,0,0
+243,Walda Frey (daughter of Edwyn),no_title,0,unknown,House Frey,0,1,1,1,0,0,0,15.0,1,0,1,0,0
+244,Walda Frey (daughter of Rhaegar),no_title,0,unknown,House Frey,0,0,0,0,0,0,0,17.0,1,0,1,0,0
+245,Walda Frey (daughter of Walton),no_title,0,unknown,House Frey,0,0,0,0,0,0,0,25.0,1,0,1,0,0
+246,Walda Frey (daughter of Merrett),no_title,0,unknown,House Frey,0,0,0,0,0,1,0,22.0,1,0,1,0,0
+247,Walda Rivers (daughter of Aemon),no_title,0,unknown,House Frey,0,0,1,0,0,0,0,10.0,1,0,1,0,0
+248,Walder Frey (son of Jammos),no_title,1,unknown,House Frey,0,0,0,0,0,0,0,14.0,1,0,1,0,0
+249,Walder Frey (son of Emmon),no_title,0,unknown,House Frey of Riverrun,0,0,0,0,0,0,0,20.0,1,0,1,0,0
+250,Walder Frey (son of Ryman),no_title,1,Rivermen,House Frey,0,0,0,0,0,0,0,45.0,1,0,1,0,0
+251,Walder Frey (son of Merrett),no_title,1,unknown,House Frey,0,0,0,0,0,0,0,9.0,0,0,1,0,0
+252,Wallen,no_title,0,unknown,Night's Watch,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+253,Walton,no_title,1,northmen,House Bolton,0,1,1,1,1,0,0,19.0,1,0,0,0,0
+254,Walys Flowers,no_title,1,Reach,unknown,0,0,0,0,1,0,1,42.0,0,0,0,0,0
+255,Wat (Barleycorn),no_title,1,unknown,House Osgrey,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+256,Blue Bard,no_title,1,unknown,House Tyrell,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+257,Wat (orphan),no_title,0,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+258,Wat (sailor),no_title,0,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+259,Wat (Standfast),no_title,0,unknown,House Osgrey,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+260,Wat (Wet),no_title,1,unknown,House Osgrey,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+261,Wate,no_title,0,unknown,House Targaryen,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+262,Watt,no_title,1,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+263,Wayn (guard),no_title,1,Northmen,House Stark,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+264,Weasel,no_title,1,unknown,unknown,0,1,0,0,0,0,0,9.0,1,0,1,0,0
+265,Wendell Webber,no_title,1,unknown,House Webber,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+266,Wendello Qar Deeth,no_title,0,Qartheen,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+267,Werlag,no_title,0,Ironborn,House Greyjoy,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+268,Rafford,no_title,1,unknown,House Clegane,0,1,1,1,1,0,0,19.0,0,0,0,0,0
+269,Jhogo,no_title,0,Dothraki,House Targaryen,1,1,1,1,1,0,0,24.0,1,0,1,0,0
+270,Sour Alyn,no_title,1,unknown,House Bolton,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+271,Tobho Mott,no_title,1,Qohor,unknown,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+272,Zollo,no_title,1,Dothraki,Brave Companions,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+273,Tanda Stokeworth,no_title,0,unknown,House Stokeworth,1,1,1,1,1,0,1,35.0,0,0,0,0,1
+274,Samwell Tarly,no_title,1,Westeros,Night's Watch,1,1,1,1,1,0,0,22.0,1,0,1,1,0
+275,Abelar Hightower,no_title,1,unknown,House Hightower,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+276,Addam Frey,no_title,1,unknown,House Frey,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+277,Addam,no_title,1,unknown,unknown,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+278,Addam Osgrey,no_title,1,unknown,House Osgrey,0,0,0,0,0,0,0,13.0,0,0,1,0,0
+279,Aegon Frey (son of Aenys),no_title,1,unknown,House Frey,0,0,0,0,0,0,0,52.0,1,0,1,0,0
+280,Aegon Frey (son of Stevron),no_title,1,unknown,House Frey,0,0,0,0,0,0,0,50.0,0,0,1,0,0
+281,Aegon I Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+282,Aegon II Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+283,Aegon IV Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+284,Aegon Targaryen (son of Baelon),Prince,1,Valyrian,House Targaryen,0,0,0,0,0,0,1,42.0,1,1,0,0,0
+285,Aegon III Targaryen,no_title,1,Valyrian,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+286,Aegon Targaryen (son of Jaehaerys I),Prince,0,Valyrian,House Targaryen,0,0,0,0,0,0,1,100.0,0,1,1,0,0
+287,Aegon Targaryen (son of Aenys I),Prince,1,Valyrian,House Targaryen,0,0,0,0,0,1,1,17.0,0,1,1,0,0
+288,Aegon Targaryen (son of Rhaegar),no_title,1,Valyrian,House Targaryen,0,0,0,0,0,0,0,2.0,0,0,1,0,0
+289,Aemon Costayne,no_title,1,unknown,House Costayne,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+290,Aenys I Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+291,Aethan,no_title,0,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+292,Aethelmure,no_title,0,unknown,unknown,1,0,0,0,0,0,1,35.0,1,0,0,0,0
+293,Aggar,no_title,1,unknown,House Greyjoy,0,1,0,0,1,0,0,19.0,0,0,0,0,0
+294,Agrivane,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+295,Aerys I Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+296,Alaric of Eysen,no_title,0,unknown,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+297,Aerys II Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+298,Alebelly,no_title,1,Northmen,House Stark,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+299,Alequo Adarys,no_title,1,Tyroshi,Band of Nine,0,0,0,0,0,0,0,19.0,0,0,0,0,0
+300,Alester Oakheart,no_title,1,unknown,House Oakheart,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+301,Alia,no_title,0,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+302,All-for-Joffrey,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+303,Allaquo,no_title,1,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+304,Allyria Dayne,no_title,0,unknown,House Dayne,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+305,Alicent Hightower,no_title,0,unknown,House Hightower,0,0,0,0,0,1,1,45.0,0,0,1,0,1
+306,Alyce,no_title,1,unknown,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+307,Alvyn Sharp,no_title,1,Ironborn,House Sharp,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+308,Alyn Hunt,no_title,1,unknown,House Hunt,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+309,Alys Arryn,no_title,0,unknown,House Arryn,0,0,0,1,0,1,0,19.0,1,0,0,0,1
+310,Alysanne Bracken,no_title,0,unknown,House Bracken,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+311,Alyn Velaryon,Lord,1,Valyrian,House Velaryon,0,0,0,1,1,1,1,56.0,0,1,1,0,0
+312,Alysanne Osgrey,no_title,0,unknown,House Osgrey,0,0,0,0,0,0,0,21.0,0,0,1,0,0
+313,Alyssa Arryn,no_title,0,unknown,House Arryn,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+314,Alysanne Hightower,no_title,0,unknown,House Hightower,0,0,0,1,0,1,0,19.0,1,0,0,0,0
+315,Amabel,no_title,0,unknown,House Whent,0,1,1,0,0,0,0,19.0,1,0,0,0,0
+316,Ambrode,no_title,0,Ironborn,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+317,Andrey Dalt,no_title,0,Dornish,House Dalt,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+318,Andrey Charlton,no_title,1,unknown,House Charlton,0,1,0,0,0,0,1,42.0,0,0,0,0,0
+319,Argrave the Defiant,no_title,1,unknown,House Butterwell,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+320,Armen,no_title,1,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+321,Arneld,no_title,1,unknown,unknown,0,1,0,0,0,0,1,42.0,1,0,0,0,0
+322,Arnell,no_title,1,unknown,Night's Watch,0,1,0,0,0,0,1,42.0,1,0,0,0,0
+323,Arrec Durrandon,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+324,Arron,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+325,Arryk (guard),no_title,0,unknown,House Tyrell,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+326,Arron Qorgyle,no_title,1,unknown,House Qorgyle,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+327,Arson,no_title,1,Free Folk,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+328,Aubrey Ambrose,no_title,1,unknown,House Ambrose,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+329,Ayrmidon,no_title,0,Valyrian,unknown,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+330,Baelon Targaryen (son of Viserys I),Prince,1,Valyrian,House Targaryen,0,0,0,0,0,0,1,0.0,0,1,0,0,0
+331,Baelon Targaryen (son of Aerys),Lord,0,Valyrian,House Targaryen,0,0,0,0,0,0,1,35.0,1,1,0,0,0
+332,Balon Botley,no_title,1,Ironborn,House Botley,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+333,Baelor Targaryen (son of Daeron II),Prince,1,unknown,House Targaryen,0,0,1,0,0,1,1,39.0,0,1,1,0,1
+334,Bandy,no_title,0,Northmen,House Stark,0,1,0,1,0,0,0,19.0,1,0,0,0,0
+335,Bannen,no_title,1,unknown,Night's Watch,0,1,1,0,0,0,0,19.0,0,0,0,0,0
+336,Barre,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+337,Barbara Bracken,no_title,0,unknown,House Bracken,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+338,Barth (brewer),no_title,1,unknown,House Stark,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+339,Bass,no_title,0,unknown,Night's Watch,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+340,Bearded Ben,no_title,1,unknown,Night's Watch,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+341,Becca,no_title,1,unknown,House Arryn,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+342,Beck,no_title,1,unknown,unknown,0,0,1,0,0,0,1,6.0,1,0,1,0,0
+343,Belandra,no_title,0,unknown,House Martell,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+344,Beldecar,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+345,Belis,no_title,1,unknown,Alchemists' Guild,0,0,1,0,0,0,1,42.0,1,0,0,0,0
+346,Bellonara Otherys,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+347,Bella,no_title,0,unknown,unknown,0,0,1,1,0,0,0,22.0,1,0,1,0,0
+348,Ben,no_title,1,unknown,unknown,0,0,0,1,0,0,0,12.0,1,0,1,0,0
+349,Ben Blackthumb,no_title,1,unknown,House Whent,0,1,0,1,0,0,0,19.0,1,0,0,0,0
+350,Ben Bones,no_title,1,unknown,House Bolton,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+351,Ben Bushy,no_title,0,unknown,House Bushy,0,0,0,1,0,0,1,35.0,0,0,0,0,0
+352,Benedict,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+353,Benjen Stark (Bitter),no_title,1,Northmen,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+354,Benjen Stark (Sweet),no_title,1,Northmen,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+355,Bennet,no_title,0,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+356,Bennis,no_title,1,unknown,House Osgrey,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+357,Beqqo,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+358,Bennarion Botley,no_title,1,Ironborn,House Botley,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+359,Beron Blacktyde,no_title,0,unknown,House Blacktyde,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+360,Bertram Beesbury,no_title,1,unknown,House Beesbury,0,0,1,0,0,0,1,42.0,1,0,0,0,0
+361,Bessa,no_title,1,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+362,Bessa (Winterfell),no_title,0,Northmen,unknown,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+363,Bess Bracken,no_title,0,unknown,House Bracken,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+364,Bethany (Blushing Bethany),no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+365,Bethany Fair-Fingers,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+366,Bharbo,no_title,0,Dothraki,unknown,1,0,0,0,0,0,0,19.0,1,0,0,0,1
+367,Big Boil,no_title,1,Free Folk,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+368,Blind Doss,no_title,0,Free folk,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+369,Blane,no_title,1,unknown,Night's Watch,0,1,1,0,0,0,0,19.0,1,0,0,0,0
+370,Bodger,no_title,0,Free Folk,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+371,Borcas,no_title,1,unknown,Night's Watch,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+372,Bors,no_title,1,unknown,House Martell,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+373,Borroq,no_title,1,Free folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+374,Boy,no_title,1,unknown,unknown,0,0,1,1,0,0,0,21.0,1,0,1,0,0
+375,Brandon Stark (Bad),King,1,Northmen,House Stark,0,1,0,0,0,0,1,42.0,1,1,0,0,0
+376,Brandon Stark (Burner),no_title,1,Northmen,unknown,1,1,0,0,0,0,0,19.0,1,0,0,0,0
+377,Brandon Stark (the daughterless),no_title,1,Northmen,House Stark,0,1,0,0,0,0,1,42.0,1,0,0,0,0
+378,Brandon Stark (son of Cregan),no_title,1,Northmen,House Stark,0,1,0,0,0,1,1,42.0,1,0,0,0,0
+379,Brandon Stark (Shipwright),no_title,1,Northmen,unknown,1,1,0,0,0,0,0,19.0,1,0,0,0,0
+380,Brea,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+381,Brella,no_title,0,unknown,House Baratheon,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+382,Brenett,no_title,1,unknown,House Frey,0,0,1,0,0,0,1,42.0,1,0,0,0,0
+383,Briar,no_title,0,Free Folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+384,Brogg,no_title,1,Free Folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+385,Brusco,no_title,1,Braavosi,unknown,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+386,Brown Bernarr,no_title,0,unknown,Night's Watch,0,1,1,0,0,0,0,19.0,0,0,0,0,0
+387,Bryan of Oldtown,no_title,0,Reach,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+388,Bryen,no_title,1,unknown,House Baelish,0,0,1,0,0,0,0,85.0,1,0,1,0,0
+389,Buford Bulwer,no_title,1,unknown,House Bulwer,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+390,Bump,no_title,1,Free folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+391,Buu,no_title,0,unknown,unknown,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+392,Byan Votyris,no_title,1,Norvoshi,unknown,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+393,Byam Flint,no_title,1,unknown,Night's Watch,0,0,1,0,0,0,1,42.0,0,0,0,0,0
+394,Byren Flowers,no_title,1,unknown,unknown,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+395,Byron,no_title,0,unknown,House Baelish,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+396,Cadwyl,no_title,1,Ironborn,House Greyjoy,0,1,1,0,0,0,0,19.0,1,0,0,0,0
+397,Lord Cafferen,Lord,1,unknown,House Cafferen,0,0,1,0,0,0,1,42.0,0,1,0,0,0
+398,Calon,no_title,0,Northmen,House Stark,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+399,Cadwyn,no_title,0,unknown,House Lannister,0,1,0,0,0,0,1,35.0,1,0,0,0,0
+400,Canker Jeyne,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+401,Carellen Smallwood,no_title,0,unknown,House Smallwood,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+402,Cass,no_title,0,unknown,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+403,Carrot,no_title,0,unknown,House Royce of the Gates of the Moon,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+404,Castos,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+405,Cedra,no_title,0,unknown,House Martell,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+406,Catelyn Bracken,no_title,0,unknown,House Bracken,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+407,Cedric Payne,no_title,1,unknown,House Payne,0,0,0,1,0,0,1,42.0,0,0,0,0,0
+408,Cedrik Storm,no_title,0,unknown,House Buckler,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+409,Cerrick,no_title,1,Ironborn,House Webber,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+410,Cetheres,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+411,Catelyn Stark,no_title,0,Rivermen,House Tully,0,0,0,0,0,1,1,35.0,0,0,1,0,1
+412,Cheyk,no_title,0,unknown,Black Ears,1,1,0,0,1,0,0,19.0,1,0,0,0,0
+413,Chiggen,no_title,1,unknown,unknown,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+414,Clarence Crabb,no_title,1,unknown,House Crabb,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+415,Clarence Charlton,no_title,0,unknown,House Charlton,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+416,Clarence Crabb (Short),no_title,1,unknown,House Crabb,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+417,Clement,no_title,1,unknown,unknown,0,0,0,1,0,0,1,54.0,1,0,1,0,0
+418,Cleyton Caswell,no_title,0,unknown,House Caswell,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+419,Clifford Conklyn,no_title,1,unknown,House Conklyn,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+420,Colen of Greenpools,no_title,1,unknown,House Baratheon,0,1,0,0,0,0,1,42.0,1,0,0,0,0
+421,Collio Quaynis,no_title,1,Tyroshi,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+422,Conn,no_title,1,Vale mountain clans,Stone Crows,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+423,Coratt,no_title,1,Vale mountain clans,Stone Crows,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+424,Cosgrove,no_title,0,unknown,House Butterwell,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+425,Cossomo,no_title,1,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+426,Courtenay Greenhill,no_title,0,unknown,House Greenhill,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+427,Cregan Karstark,no_title,1,Northmen,House Karstark,0,0,0,0,1,0,0,56.0,1,0,1,0,0
+428,Cutjack,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+429,Dacks,no_title,1,unknown,House Redfort,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+430,Daella Targaryen (daughter of Jaehaerys I),no_title,0,Valyrian,House Targaryen,0,0,0,0,0,1,1,28.0,0,0,1,0,0
+431,Daella Targaryen (daughter of Maekar I),no_title,1,Valyrian,House Targaryen,0,0,0,0,0,0,1,100.0,0,0,1,0,0
+432,Daenerys Targaryen (daughter of Aegon IV),no_title,0,unknown,House Targaryen,0,0,0,0,1,1,1,100.0,0,0,1,0,1
+433,Daeron I Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+434,Daena Targaryen,no_title,0,Valyrian,House Targaryen,0,0,0,0,0,1,1,100.0,0,0,1,0,1
+435,Daeryssa,no_title,0,unknown,unknown,1,0,0,0,0,0,1,35.0,1,0,0,0,0
+436,Daeron Targaryen (son of Viserys I),no_title,1,unknown,House Targaryen,0,0,0,0,0,0,1,16.0,0,0,1,0,0
+437,Dagon Ironmaker,no_title,1,Ironborn,House Ironmaker,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+438,Daeron Targaryen (son of Maekar I),Prince,1,unknown,House Targaryen,0,1,0,1,0,1,1,31.0,0,1,1,0,0
+439,Daeron II Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+440,Dake,no_title,1,unknown,House Osgrey,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+441,Dale Drumm,no_title,0,unknown,House Drumm,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+442,Dalla (Dragonstone),no_title,0,unknown,House Baratheon of Dragonstone,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+443,Damon Lannister (lord),no_title,1,Westerman,House Lannister,0,0,0,0,0,1,1,42.0,0,0,0,0,0
+444,Dan,no_title,1,Free Folk,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+445,Damon Lannister (son of Jason),no_title,1,unknown,House Lannister,0,0,0,0,0,1,0,61.0,1,0,1,0,0
+446,Darla Deddings,Lady,0,unknown,House Deddings,0,0,0,0,0,0,1,35.0,1,1,0,0,0
+447,Danos Slynt,no_title,1,unknown,House Slynt,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+448,Daughter of the Dusk,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+449,Del,no_title,0,Free Folk,unknown,0,0,1,1,0,0,0,16.0,0,0,1,0,0
+450,Denestan,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+451,Denyo Terys,no_title,1,Braavosi,unknown,0,0,0,1,0,0,0,18.0,1,0,1,0,0
+452,Dennis Plumm,no_title,1,unknown,House Plumm,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+453,Denys Drumm,no_title,1,Ironborn,House Drumm,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+454,Denys Redwyne,no_title,1,unknown,House Redwyne,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+455,Denyse Hightower,no_title,0,unknown,House Hightower,0,0,0,1,0,1,0,19.0,1,0,0,0,0
+456,Dhazzar,no_title,0,Ghiscari,unknown,0,0,0,0,1,0,1,35.0,1,0,0,0,0
+457,Dick Follard,no_title,1,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+458,Dickon Manwoody,no_title,1,unknown,House Manwoody,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+459,Dobber,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+460,Donnel Drumm,no_title,1,Ironborn,House Drumm,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+461,Donel Greyjoy,no_title,1,Ironborn,House Greyjoy,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+462,Donella Hornwood,no_title,0,Northmen,House Manderly,0,1,0,0,1,1,1,50.0,0,0,1,0,0
+463,Donnel Hill,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+464,Donnis,no_title,0,Northmen,House Stark,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+465,Donyse,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+466,Dorcas,no_title,0,unknown,House Lannister,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+467,Dornish Dilly,no_title,0,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+468,Dorren Stark,no_title,1,Northmen,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+469,Draqaz,no_title,0,Ghiscari,unknown,0,0,0,0,1,0,1,35.0,1,0,0,0,0
+470,Drennan,no_title,1,Ironborn,House Greyjoy,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+471,Dudley,no_title,1,unknown,unknown,0,0,1,0,0,0,1,42.0,1,0,0,0,0
+472,Dryn,no_title,1,Free Folk,unknown,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+473,Dunaver,no_title,0,unknown,House Lannister,0,1,0,0,0,0,1,35.0,1,0,0,0,0
+474,Durran,no_title,1,First Men,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+475,Dyah,no_title,0,Free Folk,unknown,0,0,1,1,0,1,0,19.0,1,0,0,0,0
+476,Dykk Harlaw,no_title,1,unknown,House Harlaw,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+477,Easy,no_title,1,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+478,Duncan Targaryen,Prince,1,unknown,House Targaryen,0,0,1,1,1,1,1,39.0,0,1,1,0,1
+479,Edgerran Oakheart,Lord,1,unknown,House Oakheart,0,0,0,1,0,0,1,42.0,1,1,0,0,0
+480,Eden Risley,no_title,1,unknown,House Risley,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+481,Edmund Ambrose,no_title,0,unknown,House Ambrose,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+482,Edwyn Osgrey,no_title,1,unknown,House Osgrey,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+483,Eggon,no_title,1,unknown,House Clegane,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+484,Eglantine,no_title,0,unknown,Faith of the Seven,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+485,Egon Emeros,no_title,0,Qartheen,Pureborn,0,1,0,0,1,0,0,19.0,1,0,0,0,0
+486,Eldiss,no_title,1,Ironborn,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+487,Eldred Codd,no_title,1,Ironborn,House Codd,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+488,Elaena Targaryen,no_title,0,Valyrian,House Targaryen,0,0,0,0,0,1,1,70.0,0,0,1,0,1
+489,Elys Westerling,no_title,0,unknown,House Westerling,0,0,1,0,0,0,1,35.0,1,0,0,0,0
+490,Elyas Willum,no_title,1,unknown,House Willum,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+491,Elza,no_title,0,Meereenese,House of Galare,0,0,0,0,1,0,0,19.0,0,0,0,0,0
+492,Emma,no_title,0,unknown,unknown,0,0,0,1,0,0,0,45.0,1,0,1,0,0
+493,Elys Waynwood,no_title,0,unknown,House Waynwood,0,0,0,1,0,1,1,35.0,1,0,0,0,0
+494,Emrick,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+495,Endehar,no_title,0,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+496,Emphyria Vance,no_title,0,unknown,House Vance of Wayfarer's Rest,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+497,Enger,no_title,0,unknown,House Tully,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+498,Erik Ironmaker,Lord,1,Ironborn,House Ironmaker,0,0,0,1,1,1,1,94.0,1,1,1,0,0
+499,Erreck,no_title,1,unknown,unknown,0,0,1,0,0,0,1,42.0,1,0,0,0,0
+500,Erreg,King,0,Andal,unknown,0,0,1,0,0,0,1,35.0,1,1,0,0,0
+501,Errok,no_title,1,Free Folk,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+502,Erryk (guard),no_title,0,unknown,House Tyrell,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+503,Esgred,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+504,Eustace (Braavos),no_title,0,unknown,Faith of the Seven,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+505,Eustace (Dance of the Dragons),no_title,1,unknown,Faith of the Seven,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+506,Ezzara,no_title,0,Ghiscari,unknown,0,0,0,0,1,0,1,35.0,1,0,0,0,0
+507,Euron Greyjoy,no_title,1,Ironborn,unknown,0,0,0,0,0,0,0,19.0,1,0,0,1,1
+508,Ezzelyno,no_title,0,Braavosi,R'hllor,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+509,Fern,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+510,Ferny,no_title,0,Free Folk,unknown,0,0,1,1,0,1,0,19.0,1,0,0,0,0
+511,Ferret,no_title,0,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+512,Fogo,no_title,1,Dothraki,unknown,1,0,0,0,0,0,1,42.0,0,0,0,0,0
+513,Fornio,no_title,1,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+514,Fralegg,no_title,1,Ironborn,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+515,Frenya,no_title,1,Free Folk,unknown,0,0,0,0,1,0,0,19.0,0,0,0,0,0
+516,Frynne,no_title,0,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+517,Gage,no_title,0,unknown,House Stark,1,1,1,0,0,0,0,19.0,1,0,0,0,0
+518,Galladon of Morne,no_title,1,unknown,unknown,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+519,Gallard,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+520,Galt,no_title,0,Vale mountain clans,Stone Crows,0,1,0,1,0,0,0,19.0,1,0,0,0,0
+521,Galtry the Green,no_title,1,unknown,unknown,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+522,Galyeon of Cuy,no_title,1,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+523,Gareth the Grey,no_title,1,unknown,unknown,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+524,Garigus,no_title,1,unknown,Alchemists' Guild,0,0,1,0,0,0,1,42.0,1,0,0,0,0
+525,Garizon,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+526,Gariss,no_title,1,unknown,House Stark,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+527,Garrett Paege,no_title,1,unknown,House Paege,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+528,Garth XII Gardener,no_title,0,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+529,Garth of Oldtown,no_title,0,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+530,Gascoyne,no_title,0,unknown,House Martell,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+531,Gavin,no_title,0,Free Folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+532,Gelmarr,no_title,1,unknown,House Greyjoy,0,1,0,0,1,0,0,19.0,0,0,0,0,0
+533,Gerren,no_title,0,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+534,Gerold Lannister,no_title,1,Westerman,House Lannister,0,0,0,0,0,1,1,42.0,0,0,0,0,0
+535,Ghael,Lord,1,Astapori,unknown,0,0,1,0,1,0,1,42.0,1,1,0,0,0
+536,Gillam,no_title,1,unknown,unknown,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+537,Gladden Wylde,no_title,1,unknown,House Wylde,1,0,0,0,0,0,1,42.0,0,0,0,0,0
+538,Glendon Flowers,no_title,1,unknown,unknown,0,0,0,0,0,0,1,100.0,0,0,1,0,0
+539,Goady,no_title,0,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+540,Godwyn,no_title,1,unknown,House Lannister,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+541,Gormond Drumm,no_title,1,Ironborn,House Drumm,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+542,Gowen Baratheon,no_title,1,unknown,House Baratheon,1,0,0,0,0,1,0,19.0,1,0,0,0,0
+543,Grance Morrigen,no_title,1,unknown,House Morrigen,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+544,Grazdan,Master,1,Astapori,unknown,0,0,1,0,0,0,1,42.0,0,1,0,0,0
+545,Grazdan zo Galare,no_title,1,Meereenese,House of Galare,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+546,Green Gergen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+547,Great Walrus,no_title,1,Free Folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+548,Gretchel,no_title,1,unknown,House Arryn,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+549,Grey King,no_title,1,Ironborn,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+550,Griffin King,no_title,1,First Men,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+551,Grigg,no_title,0,Free Folk,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+552,Grisel,no_title,0,unknown,House Baelish,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+553,Grisella,no_title,0,Free Folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+554,Gulian,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+555,Gulian Qorgyle,no_title,1,unknown,House Qorgyle,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+556,Gurn,no_title,0,Vale mountain clans,Stone Crows,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+557,Guyne,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+558,Gwayne Corbray,no_title,1,unknown,House Corbray,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+559,Gwayne Gaunt,no_title,0,unknown,House Gaunt,0,0,1,0,0,0,1,35.0,1,0,0,0,0
+560,Gwin Goodbrother,no_title,0,Ironborn,House Goodbrother,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+561,Gyles,no_title,0,unknown,Kingsguard,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+562,Gyleno Dothare,no_title,1,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+563,Gyles Farwynd,no_title,1,Ironborn,House Farwynd of the Lonely Light,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+564,Gwynesse Harlaw,no_title,0,Ironborn,House Harlaw,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+565,Gyles Grafton,no_title,1,unknown,House Grafton,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+566,Gyloro Dothare,no_title,1,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+567,Gyles III Gardener,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+568,Gynir,no_title,1,unknown,House Greyjoy,0,1,0,0,1,0,0,19.0,0,0,0,0,0
+569,Haggon,no_title,1,Free Folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+570,Gysella Goodbrother,no_title,0,Ironborn,House Goodbrother,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+571,Hali,no_title,0,Free Folk,unknown,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+572,Haldon,no_title,1,unknown,House Targaryen,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+573,Harbert Paege,no_title,0,unknown,House Paege,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+574,Hamish the Harper,no_title,0,unknown,unknown,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+575,Halys Hornwood,no_title,1,Northmen,House Hornwood,1,1,0,1,0,1,1,42.0,0,0,0,0,0
+576,Harghaz,no_title,1,Ghiscari,unknown,0,0,0,0,1,0,0,19.0,0,0,0,0,0
+577,Hareth (Mole's Town),no_title,1,unknown,Night's Watch,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+578,Harlan Grandison,no_title,1,unknown,House Grandison,0,0,1,0,0,0,1,42.0,0,0,0,0,0
+579,Harle the Handsome,no_title,1,Free Folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+580,Harle the Huntsman,no_title,1,Free Folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+581,Harlon Botley,no_title,1,Ironborn,House Botley,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+582,Harmund Sharp,no_title,1,Ironborn,House Sharp,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+583,Harlon Greyjoy,no_title,1,Ironborn,House Greyjoy,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+584,Harodon,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+585,Harra,no_title,0,unknown,House Whent,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+586,Harrag Sharp,no_title,0,Ironborn,House Sharp,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+587,Harrag Hoare,no_title,1,Ironborn,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+588,Harren Half-Hoare,no_title,1,Ironborn,unknown,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+589,Harren Botley,no_title,0,Ironborn,House Botley,0,0,0,1,0,0,0,19.0,0,0,0,0,0
+590,Harrold Osgrey,no_title,1,unknown,House Osgrey,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+591,Harry Sawyer,no_title,0,unknown,House Sawyer,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+592,Harsley,no_title,1,unknown,unknown,0,0,1,0,1,0,0,19.0,0,0,0,0,0
+593,Harwyn Hoare,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+594,Hayhead,no_title,1,Northmen,House Stark,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+595,Hazrak zo Loraq,no_title,1,Ghiscari,House of Loraq,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+596,Harwyn Plumm,no_title,1,unknown,House Plumm,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+597,Helicent Uffering,no_title,0,unknown,House Uffering,0,0,0,0,0,0,0,100.0,0,0,1,0,0
+598,Helliweg,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+599,Helly,no_title,0,unknown,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+600,Helya,no_title,0,unknown,House Greyjoy,0,1,1,1,0,0,0,19.0,1,0,0,0,0
+601,Henk,no_title,1,Free Folk,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+602,Henly (House Ashford),no_title,0,unknown,House Ashford,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+603,Herbert Bolling,no_title,0,unknown,House Bolling,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+604,Hendry Bracken,no_title,0,unknown,House Bracken,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+605,Heward,no_title,0,northmen,House Stark,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+606,Hibald,no_title,1,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+607,Hilmar Drumm,no_title,1,Ironborn,House Drumm,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+608,Hod,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+609,Hoke,no_title,0,unknown,House Lannister,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+610,Holger,no_title,0,Vale mountain clans,Stone Crows,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+611,Hop-Robin,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+612,Hugh Beesbury,no_title,0,unknown,House Beesbury,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+613,Humfrey Clifton,no_title,1,unknown,House Clifton,0,0,0,0,1,0,1,42.0,1,0,0,0,0
+614,Hunnimore,no_title,0,unknown,unknown,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+615,Husband,no_title,1,unknown,unknown,0,0,1,1,0,1,0,19.0,1,0,0,0,0
+616,Illifer,no_title,1,unknown,unknown,0,0,0,1,0,0,1,65.0,1,0,1,0,0
+617,Ironbelly,no_title,1,unknown,unknown,0,1,1,0,0,0,0,19.0,1,0,0,0,0
+618,Jaehaerys Targaryen (son of Aegon II),Prince,1,unknown,House Targaryen,0,0,0,0,0,0,1,6.0,0,1,1,0,0
+619,Jaehaera Targaryen,no_title,0,Valyrian,House Targaryen,0,0,0,0,0,1,1,10.0,0,0,1,0,0
+620,Jaggot,no_title,0,Vale mountain clans,Stone Crows,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+621,Jaehaerys II Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,0,0
+622,Jaime Frey,no_title,1,unknown,House Frey,0,0,0,1,0,0,0,6.0,1,0,1,0,0
+623,Jaehaerys I Targaryen,no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,1,1
+624,Jate,no_title,0,unknown,unknown,0,0,0,1,0,0,0,19.0,0,0,0,0,0
+625,Jate Blackberry,no_title,1,unknown,House Blackberry,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+626,Jasper Waynwood,no_title,1,unknown,House Waynwood,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+627,Jayde,no_title,0,unknown,Chataya's brothel,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+628,Jeffory Norcross,no_title,1,unknown,House Norcross,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+629,Jeffory Mallister,no_title,1,unknown,House Mallister,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+630,Jayne Bracken,no_title,0,unknown,House Bracken,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+631,Squinty Jeyne,no_title,0,unknown,House Osgrey,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+632,Jeyne Fossoway,no_title,0,unknown,House Fossoway of New Barrel,0,0,0,1,0,1,0,19.0,1,0,0,0,0
+633,Jeyne Heddle,no_title,0,unknown,Brotherhood Without Banners,0,0,0,1,0,0,0,24.0,1,0,1,0,0
+634,Jeyne Swann,no_title,0,unknown,House Swann,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+635,Jeyne Westerling (wife of Maegor I),no_title,0,unknown,House Westerling,0,0,1,0,0,1,1,20.0,0,0,1,0,0
+636,Jeyne Waters,no_title,1,Westeros,unknown,0,0,0,0,0,0,0,100.0,0,0,1,0,0
+637,Jeyne Westerling,no_title,0,Westermen,House Westerling,0,0,1,1,0,1,1,22.0,1,0,1,0,0
+638,Jocelyn Swyft,no_title,0,unknown,House Swyft,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+639,Jodge,no_title,1,unknown,House Lannister,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+640,Joanna Swyft,no_title,0,unknown,House Swyft,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+641,Joanna Lannister,no_title,0,Westerman,House Lannister,1,1,1,1,1,1,1,28.0,0,0,1,0,1
+642,Johanna Swann,no_title,0,unknown,House Swann,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+643,Jommo,no_title,1,Dothraki,unknown,1,0,0,1,0,0,0,19.0,1,0,0,0,0
+644,Jommy,no_title,1,unknown,House Baratheon,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+645,Jon Cupps,no_title,1,unknown,House Cupps,0,0,0,1,0,1,1,42.0,1,0,0,0,0
+646,Jon Heddle,no_title,1,unknown,House Heddle,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+647,Jon Hollard,no_title,1,unknown,House Hollard,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+648,Jon Penny,no_title,0,unknown,House Penny,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+649,Jon Penrose,no_title,1,unknown,House Penrose,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+650,Jon Pox,no_title,1,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+651,Jon Vance,no_title,1,unknown,unknown,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+652,Jon Umber (Smalljon),no_title,1,Northmen,House Umber,1,1,1,1,1,0,0,19.0,0,0,0,0,0
+653,Jon Umber (Greatjon),no_title,1,Northmen,House Umber,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+654,Jon Waters,no_title,1,unknown,unknown,0,0,0,1,0,0,1,100.0,0,0,1,0,0
+655,Jorquen,no_title,1,unknown,Night's Watch,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+656,Jorgen,no_title,1,unknown,House Webber,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+657,Joseran,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+658,Joseth,no_title,1,unknown,House Stark,1,1,0,0,0,0,0,19.0,1,0,0,0,0
+659,Joseth Mallister,no_title,0,unknown,House Mallister,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+660,Joss,no_title,1,unknown,unknown,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+661,Joss the Gloom,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+662,Joth Quickbow,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+663,Josua Willum,no_title,1,unknown,House Willum,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+664,Jurne,no_title,0,unknown,unknown,0,1,1,1,0,0,1,35.0,1,0,0,0,0
+665,Jothos Slynt,no_title,1,unknown,House Slynt,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+666,Jyck,no_title,1,unknown,House Lannister,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+667,Jyzene,no_title,0,unknown,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+668,Kegs,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+669,Kella,no_title,0,unknown,House Baelish,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+670,Kemmett Pyke,no_title,0,Ironborn,unknown,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+671,Kenned,no_title,0,Ironborn,unknown,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+672,Ketter,no_title,0,unknown,Night's Watch,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+673,Kirby Pimm,no_title,1,unknown,unknown,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+674,Kojja Mo,no_title,0,Summer Isles,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+675,Kirth Vance,no_title,1,unknown,House Vance of Atranta,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+676,Koss,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+677,Kromm,no_title,0,ironborn,House Greyjoy,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+678,Kurz,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+679,Kyle,no_title,1,unknown,unknown,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+680,Kyle (brotherhood),no_title,0,unknown,Brotherhood without banners,0,0,0,0,0,0,0,19.0,0,0,0,0,0
+681,Kyle Royce,no_title,1,unknown,House Royce,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+682,Kyleg,no_title,0,Free Folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+683,Kym,no_title,0,unknown,unknown,0,1,0,0,0,0,1,35.0,1,0,0,0,0
+684,Lamprey,no_title,1,unknown,House Baratheon of Dragonstone,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+685,Lancel V Lannister,no_title,0,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+686,Lanna,no_title,0,unknown,unknown,0,0,1,1,0,0,0,20.0,1,0,1,0,0
+687,Lanna (Happy Port),no_title,0,Braavosi,Happy Port,0,0,0,1,0,0,0,19.0,1,0,1,0,0
+688,Larraq,no_title,1,Ghiscari,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+689,Layna,no_title,0,unknown,unknown,0,1,0,0,0,0,0,26.0,1,0,1,0,0
+690,Lem,no_title,1,unknown,Brotherhood without banners,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+691,Leana Frey,no_title,0,unknown,House Frey,0,0,0,1,0,0,0,6.0,1,0,1,0,0
+692,Lennocks,no_title,1,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+693,Lem (Standfast),no_title,0,unknown,House Osgrey,0,0,0,0,0,0,0,100.0,0,0,1,0,0
+694,Lenn,no_title,0,Free Folk,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+695,Lenyl,no_title,1,Free Folk,unknown,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+696,Lenwood Tawney,no_title,1,Ironborn,House Tawney,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+697,Leo Tyrell (Longthorn),Lord,1,Reach,House Tyrell,0,0,1,0,0,0,1,42.0,1,1,0,0,0
+698,Leona Tyrell,no_title,0,unknown,House Tyrell,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+699,Leo Tyrell (son of Victor),no_title,1,unknown,House Tyrell,0,0,1,1,0,1,1,42.0,1,0,0,0,0
+700,Lester,no_title,0,unknown,House Lannister,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+701,Lew (guard),no_title,0,Northmen,House Stark,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+702,Lewis Lanster,no_title,1,unknown,Windblown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+703,Lewys Piper,no_title,1,Rivermen,House Piper,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+704,Leyla Hightower,no_title,0,unknown,House Hightower,0,0,0,1,0,1,0,19.0,1,0,0,0,0
+705,Lia Serry,no_title,0,unknown,House Serry,0,0,1,1,0,1,0,19.0,1,0,0,0,0
+706,Liane Vance,no_title,0,unknown,House Vance of Wayfarer's Rest,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+707,Lister,no_title,1,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+708,Long Lew,no_title,1,unknown,House Tully,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+709,Lorcas,no_title,1,unknown,unknown,0,0,0,1,0,0,0,64.0,1,0,1,0,0
+710,Lorent Lorch,no_title,0,unknown,House Lorch,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+711,Lorimer,no_title,1,unknown,House Lefford,0,0,0,1,0,0,1,42.0,0,0,0,0,0
+712,Lorren,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+713,Lothar,no_title,1,unknown,unknown,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+714,Lorent Tyrell,no_title,0,unknown,House Tyrell,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+715,Lotho Lornel,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+716,Lucan,no_title,1,unknown,House Whent,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+717,Lucamore Strong,no_title,1,unknown,House Strong,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+718,Lucantine Woodwright,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+719,Lucas Nayland,no_title,0,unknown,House Nayland,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+720,Lucas Roote,no_title,1,unknown,House Roote,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+721,Lucifer Hardy,Lord,1,unknown,House Hardy,0,0,0,1,0,0,1,42.0,1,1,0,0,0
+722,Luco Prestayn,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+723,Lucimore Botley,no_title,0,Ironborn,House Botley,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+724,Lucos,no_title,1,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+725,Luke of Longtown,no_title,0,unknown,Night's Watch,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+726,Lucas Tyrell,no_title,1,unknown,House Tyrell,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+727,Lum,no_title,1,westermen,House Lannister,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+728,Luton,no_title,1,Northmen,House Bolton,0,0,0,0,1,0,0,19.0,0,0,0,0,0
+729,Luthor Tyrell (son of Moryn),no_title,0,unknown,House Tyrell,0,0,1,1,0,1,1,35.0,1,0,0,0,0
+730,Luthor Tyrell (son of Theodore),no_title,1,unknown,House Tyrell,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+731,Lymond Mallister,no_title,0,unknown,House Mallister,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+732,Lync,no_title,0,unknown,Night's Watch,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+733,Lyonel (knight),no_title,1,unknown,House Lannister,0,1,0,0,0,0,1,42.0,1,0,0,0,0
+734,Lyonel Bentley,no_title,0,unknown,Queensguard,0,0,0,0,0,0,1,35.0,0,0,0,0,0
+735,Lyonel Tyrell (lord),Lord,1,Reach,House Tyrell,0,0,0,0,0,0,1,42.0,0,1,0,0,0
+736,Lysa Meadows,no_title,0,unknown,House Meadows,0,0,1,1,0,1,0,19.0,1,0,0,0,0
+737,Lyonel Tyrell (son of Leo),no_title,0,unknown,House Tyrell,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+738,Maddy,no_title,0,unknown,House Arryn,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+739,Maerie (Goodwife),no_title,0,unknown,unknown,0,0,1,0,0,0,1,35.0,1,0,0,0,0
+740,Maerie (Whore),no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+741,Maggy,no_title,1,unknown,unknown,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+742,Malcolm,no_title,0,unknown,unknown,0,1,0,0,0,0,1,35.0,1,0,0,0,0
+743,Malleon,no_title,1,unknown,unknown,1,0,0,0,0,0,1,42.0,1,0,0,0,0
+744,Malliard,no_title,1,unknown,Alchemists' Guild,0,1,0,0,0,0,1,42.0,1,0,0,0,0
+745,Mallor (Knight),no_title,1,unknown,unknown,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+746,Mallor,no_title,0,unknown,House Lannister,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+747,Manfred Dondarrion,no_title,1,unknown,House Dondarrion,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+748,Manfred Lothston,no_title,1,unknown,House Lothston,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+749,Manfred Swann,no_title,0,unknown,House Swann,0,0,1,0,0,0,1,35.0,1,0,0,0,0
+750,Manfryd Lothston,no_title,1,unknown,House Lothston,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+751,Manfryd Yew,no_title,0,unknown,House Yew,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+752,Marei,no_title,1,unknown,Chataya's brothel,0,1,1,1,1,0,0,25.0,1,0,1,0,0
+753,Marghaz zo Loraq,no_title,1,Ghiscari,House of Loraq,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+754,Maris,no_title,0,Free folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+755,Marq Grafton,no_title,1,unknown,House Grafton,0,0,0,1,0,0,0,19.0,0,0,0,0,0
+756,Martyn Mullendore,no_title,0,unknown,House Mullendore,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+757,Maslyn,no_title,0,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+758,Mathos Mallarawan,no_title,0,Qartheen,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+759,Matrice,no_title,0,unknown,House Baratheon of Dragonstone,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+760,Matt,no_title,1,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+761,Maynard,no_title,1,unknown,unknown,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+762,Maynard Plumm,no_title,1,unknown,House Plumm,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+763,Mazdhan zo Loraq,no_title,1,Ghiscaricari,House of Loraq,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+764,Mebble,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+765,Meha,no_title,0,Free Folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+766,Mela,no_title,0,unknown,House Arryn,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+767,Meizo Mahr,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+768,Melaquin,no_title,0,unknown,unknown,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+769,Medwick Tyrell,no_title,1,unknown,unknown,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+770,Meliana,no_title,0,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+771,Melicent,no_title,0,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+772,Mellei,no_title,0,unknown,House Martell,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+773,Melly,no_title,0,unknown,Brotherhood Without Banners,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+774,Mellos,no_title,1,unknown,unknown,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+775,Meralyn,no_title,0,Braavosi,Happy Port,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+776,Merling Queen,no_title,0,Braavosi,unknown,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+777,Mero,no_title,1,Braavosi,Second Sons,0,0,1,0,1,0,0,19.0,0,0,0,0,0
+778,Merrell Florent,no_title,1,unknown,House Florent,0,1,1,1,0,0,0,19.0,1,0,0,0,0
+779,Michael Mertyns,no_title,1,unknown,House Mertyns,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+780,Miklaz,no_title,0,Ghiscari,unknown,0,0,0,0,1,0,1,35.0,1,0,0,0,0
+781,Mollander,no_title,1,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+782,Mollos,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+783,Moonshadow,no_title,0,Braavos,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+784,Moreo Tumitis,no_title,1,unknown,unknown,1,0,0,0,0,0,0,37.0,1,0,1,0,0
+785,Morgarth,no_title,1,unknown,House Baelish,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+786,Moro,no_title,1,Dothraki,unknown,1,0,0,1,0,0,0,19.0,1,0,0,0,0
+787,Morra,no_title,0,unknown,House Martell,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+788,Morrec,no_title,1,unknown,House Lannister,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+789,Mors Manwoody,no_title,1,unknown,House Manwoody,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+790,Mortimer Boggs,no_title,1,unknown,House Boggs,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+791,Mors Martell (brother of Doran),no_title,1,unknown,House Martell,0,0,0,1,0,0,0,0.0,0,0,0,0,0
+792,Mother Mole,no_title,0,Free Folk,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+793,Mudge (brotherhood),no_title,0,unknown,Brotherhood without banners,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+794,Mudge (miller),no_title,1,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+795,Mudge (swineherd),no_title,1,unknown,House Osgrey,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+796,Munciter,no_title,1,unknown,Alchemists' Guild,0,1,0,0,0,0,1,42.0,1,0,0,0,0
+797,Mully,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+798,Murch,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+799,Murch (Winterfell),no_title,1,Northmen,House Stark,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+800,Myles (squire),no_title,1,unknown,House Tully,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+801,Myrtle,no_title,0,Free Folk,unknown,0,0,0,0,1,0,0,19.0,0,0,0,0,0
+802,Nage,no_title,1,unknown,House Bolton,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+803,Nail,no_title,0,unknown,Second Sons,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+804,Narbert,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+805,Narbo,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+806,Nan,no_title,0,unknown,House Stark,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+807,Ned (ferryman),no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+808,Nella,no_title,0,Free Folk,unknown,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+809,Ned Woods,no_title,1,Northmen,House Woods,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+810,Nissa Nissa,no_title,1,unknown,unknown,0,1,0,0,0,1,0,19.0,1,0,0,0,0
+811,Nightingale,no_title,0,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+812,Nolla,no_title,0,unknown,unknown,0,0,1,0,0,0,1,35.0,1,0,0,0,0
+813,Norjen,no_title,0,Ironmen,Drowned men,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+814,Norren,no_title,1,unknown,unknown,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+815,Nymos,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+816,Normund Tyrell,no_title,0,unknown,unknown,0,0,1,1,0,0,1,35.0,1,0,0,0,0
+817,Ocley,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+818,Ogo,no_title,1,Dothraki,unknown,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+819,Old Crackbones,no_title,1,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+820,Old Grey Gull,no_title,1,Ironborn,Drowned men,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+821,Old Tattersalt,no_title,1,unknown,Night's Watch,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+822,Old Henly,no_title,1,unknown,Night's Watch,0,0,1,0,0,0,0,79.0,0,0,1,0,0
+823,Olyvar Oakheart,no_title,1,unknown,House Oakheart,0,0,0,1,0,0,1,42.0,0,0,0,0,0
+824,Olene Tyrell,no_title,0,unknown,House Tyrell,0,0,1,1,0,1,0,19.0,1,0,0,0,0
+825,Orbelo,no_title,1,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+826,Orivel,no_title,1,unknown,Kingsguard,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+827,Orell,no_title,1,Free Folk,unknown,0,1,1,1,1,0,0,19.0,0,0,0,0,0
+828,Ormond (knight),no_title,0,unknown,unknown,0,0,0,0,0,0,1,35.0,0,0,0,0,0
+829,Ormond Osgrey,no_title,0,unknown,House Osgrey,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+830,Ormond Westerling,no_title,0,unknown,House Westerling,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+831,Oro Tendyris,no_title,1,Braavosi,unknown,0,1,1,1,0,0,0,19.0,1,0,0,0,0
+832,Ormund Wylde,no_title,1,unknown,House Wylde,0,0,0,0,1,0,1,42.0,1,0,0,0,0
+833,Osmynd,no_title,0,unknown,Faith of the Seven,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+834,Ossy,no_title,0,unknown,House Royce of the Gates of the Moon,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+835,Oswyn,no_title,0,unknown,Kingswood Brotherhood,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+836,Othor,no_title,1,unknown,Night's Watch,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+837,Otter Gimpknee,no_title,0,unknown,unknown,0,1,1,0,0,0,0,19.0,1,0,0,0,0
+838,Ottomore,no_title,1,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+839,Owen (brother of Meribald),no_title,1,unknown,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+840,Owen,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+841,Owen Inchfield,no_title,0,unknown,House Inchfield,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+842,Palla,no_title,0,Northmen,House Stark,0,1,0,1,0,0,0,19.0,1,0,0,0,1
+843,Pate (Old),no_title,1,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+844,Pate (Mory),no_title,1,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+845,Pate (Lancewood),no_title,1,unknown,unknown,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+846,Pate (Pinchbottom),no_title,0,unknown,unknown,0,0,0,0,0,0,0,19.0,0,0,0,0,0
+847,Pate (Night's Watch),no_title,0,unknown,Night's Watch,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+848,Pate (Shermer's Grove),no_title,1,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+849,Pate (Standfast),no_title,1,unknown,House Osgrey,0,0,0,0,0,0,0,100.0,0,0,1,0,0
+850,Penny Jenny,no_title,0,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+851,Penny,no_title,0,unknown,Second Sons,0,0,1,0,1,0,0,24.0,1,0,1,0,0
+852,Perros Blackmont,no_title,1,Dornish,House Blackmont,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+853,Perwyn Osgrey,no_title,0,unknown,House Osgrey,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+854,Peter Plumm,no_title,1,unknown,House Plumm,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+855,Plummer,no_title,0,unknown,House Ashford,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+856,Poetess,no_title,0,Braavosi,unknown,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+857,Pollitor,no_title,1,unknown,Alchemists' Guild,0,1,0,0,0,0,1,42.0,1,0,0,0,0
+858,Porridge,no_title,1,unknown,House Baratheon of Dragonstone,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+859,Porther,no_title,1,northmen,House Stark,1,1,0,0,0,0,0,19.0,1,0,0,0,0
+860,Portifer Woodwright,no_title,0,unknown,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+861,Poul Pemford,no_title,1,unknown,House Pemford,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+862,Poxy Tym,no_title,1,northmen,House Stark,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+863,Praed,no_title,1,unknown,unknown,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+864,Puckens,no_title,0,unknown,House Lannister,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+865,Pudding,no_title,0,unknown,unknown,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+866,Puddingfoot,no_title,0,unknown,Brotherhood without banners,0,0,1,0,0,0,0,19.0,1,0,0,0,0
+867,Qalen,no_title,1,unknown,House Greyjoy,0,1,0,1,0,0,1,42.0,1,0,0,0,0
+868,Qarl the Thrall,no_title,0,Ironborn,unknown,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+869,Qarl Kenning,no_title,0,Ironborn,House Kenning of Harlaw,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+870,Qarl Correy,no_title,1,unknown,House Velaryon,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+871,Qarl Shepherd,no_title,0,Ironborn,House Shepherd,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+872,Qarl Quickaxe,no_title,1,Ironmen,unknown,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+873,Qos,no_title,1,unknown,unknown,1,0,0,0,0,0,1,42.0,1,0,0,0,0
+874,Quellon Humble,no_title,1,Ironborn,House Humble,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+875,Quaro,no_title,0,Dothraki,unknown,1,0,0,0,1,0,0,19.0,0,0,0,0,0
+876,Aelinor Penrose,no_title,0,unknown,House Penrose,0,0,0,0,0,1,1,35.0,1,0,0,0,0
+877,Aemon Estermont,no_title,1,Stormlands,House Estermont,0,1,1,1,1,0,1,42.0,1,0,0,0,0
+878,Aemon Rivers,no_title,1,unknown,House Frey,0,1,1,1,0,0,1,42.0,1,0,0,0,0
+879,Aglantine,no_title,0,unknown,Faith of the Seven,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+880,Aladale Wynch,no_title,1,Ironborn,House Wynch,0,1,1,0,0,0,1,42.0,0,0,0,0,0
+881,Albett,no_title,1,unknown,Night's Watch,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+882,Albar Royce,no_title,1,unknown,House Royce of the Gates of the Moon,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+883,Alesander Staedmon,no_title,0,unknown,House Staedmon,0,1,1,1,0,0,1,35.0,1,0,0,0,0
+884,Alekyne Florent,no_title,1,unknown,House Florent,0,1,1,1,0,0,1,42.0,1,0,0,0,0
+885,Alesander Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,40.0,1,0,1,0,0
+886,Alester Norcross,no_title,1,unknown,House Norcross,0,1,1,1,0,0,0,15.0,1,0,1,0,0
+887,Allard Seaworth,Lady,1,unknown,House Seaworth,0,1,1,1,1,0,1,42.0,0,1,0,0,0
+888,Allar Deem,no_title,1,unknown,City Watch of King's Landing,0,1,0,0,0,0,0,19.0,0,0,0,0,0
+889,Alla Tyrell,no_title,0,unknown,House Tyrell,0,0,1,1,1,0,0,19.0,1,0,1,0,0
+890,Alyn Cockshaw,Lord,1,unknown,House Cockshaw,0,0,0,0,0,0,1,42.0,0,1,0,0,0
+891,Alyce Graceford,Lady,0,unknown,House Graceford,0,0,1,1,1,0,1,35.0,1,1,0,0,0
+892,Alyn Connington,no_title,0,unknown,House Connington,0,0,1,1,0,0,1,35.0,1,0,0,0,0
+893,Alyn Ambrose,no_title,1,unknown,House Ambrose,0,1,1,1,1,0,0,19.0,1,0,0,0,0
+894,Alyn Estermont,no_title,1,Stormlands,House Estermont,0,1,1,1,1,0,1,42.0,1,0,0,0,0
+895,Alyn Stackspear,no_title,0,unknown,House Stackspear,1,1,1,1,1,0,1,35.0,1,0,0,0,0
+896,Alyn Frey,no_title,1,unknown,House Frey,0,1,1,1,0,0,0,10.0,1,0,1,0,0
+897,Alyn Haigh,no_title,0,unknown,House Haigh,0,1,1,1,0,0,0,49.0,1,0,1,0,0
+898,Alysanne Bulwer,no_title,0,unknown,House Bulwer,0,0,1,1,1,0,1,14.0,1,0,1,0,0
+899,Alysanne Lefford,no_title,0,unknown,House Lefford,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+900,Alys Frey,no_title,0,unknown,House Frey,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+901,Alyssa Blackwood,Lady,0,unknown,House Blackwood,0,1,1,1,1,1,1,35.0,0,1,0,0,0
+902,Alyx Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,23.0,1,0,1,0,0
+903,Amarei Crakehall,no_title,0,unknown,House Crakehall,0,1,1,1,1,1,0,19.0,0,0,1,0,0
+904,Ambrose Butterwell,no_title,1,unknown,House Butterwell,0,0,0,0,0,1,1,100.0,0,0,1,0,0
+905,Andar Royce,no_title,1,Valemen,House Royce,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+906,Andros Brax,no_title,1,unknown,House Brax,1,0,1,0,0,0,1,42.0,0,0,0,0,0
+907,Antario Jast,Lord,1,unknown,House Jast,0,1,1,1,1,1,1,42.0,1,1,0,0,0
+908,Andrew Estermont,no_title,1,unknown,House Estermont,0,1,1,1,1,0,1,42.0,1,0,0,0,0
+909,Annara Farring,Lady,0,unknown,House Farring,0,1,1,1,1,1,1,35.0,1,1,0,0,0
+910,Ardrian Celtigar,no_title,1,unknown,House Celtigar,0,1,1,0,0,0,1,76.0,1,0,1,0,0
+911,Anya Waynwood,no_title,0,unknown,House Waynwood,1,1,1,1,1,0,1,35.0,1,0,0,0,0
+912,Androw Frey,no_title,1,unknown,House Frey,0,1,1,1,0,0,0,10.0,1,0,1,0,0
+913,Armond Caswell,no_title,1,unknown,House Caswell,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+914,Arthur Ambrose,Lord,1,unknown,House Ambrose,0,0,1,1,1,1,1,42.0,1,1,0,0,0
+915,Arthor Karstark,no_title,1,Northmen,House Karstark,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+916,Arwyn Frey,no_title,0,unknown,House Frey,0,1,1,1,1,0,0,20.0,1,0,1,0,0
+917,Artos Stark,no_title,1,Northmen,House Stark,0,1,0,0,1,1,0,19.0,1,0,0,0,0
+918,Arwood Frey,no_title,1,unknown,House Frey,0,1,1,1,0,1,1,42.0,1,0,1,0,0
+919,Lord Ashford,no_title,1,Reach,House Ashford,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+920,Azzak,no_title,0,Ghiscari,House of Ghazeen,0,0,0,0,1,0,1,35.0,1,0,0,0,0
+921,Baelor Hightower,no_title,1,unknown,House Hightower,0,0,1,1,0,1,1,42.0,1,0,0,0,0
+922,Balman Byrch,no_title,1,unknown,House Byrch,0,0,1,1,1,1,1,42.0,0,0,0,0,0
+923,Barth,no_title,1,unknown,Faith of the Seven,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+924,Bayard Norcross,no_title,0,unknown,House Norcross,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+925,Bedwyck,no_title,1,unknown,Night's Watch,0,1,1,1,1,0,0,19.0,1,0,0,0,0
+926,Barthogan Stark,no_title,1,Northmen,House Stark,0,1,0,0,0,0,1,42.0,1,0,0,0,0
+927,Bellena Hawick,no_title,0,unknown,House Hawick,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+928,Benedar Belmore,no_title,1,unknown,House Belmore,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+929,Benedict Broom,no_title,0,unknown,House Broom,0,1,1,1,1,0,1,35.0,1,0,0,0,0
+930,Bennard Brune,no_title,1,unknown,House Brune of Brownhollow,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+931,Benfrey Frey,no_title,1,unknown,House Frey,0,1,1,1,1,1,1,28.0,0,0,1,0,0
+932,Beren Tallhart,no_title,1,Northmen,House Tallhart,0,1,1,1,1,0,0,16.0,1,0,1,0,0
+933,Berena Hornwood,no_title,0,Northmen,House Hornwood,0,1,1,1,1,1,0,19.0,1,0,0,0,0
+934,Beth Cassel,no_title,0,Northmen,House Cassel,1,1,1,1,1,0,0,16.0,1,0,1,0,0
+935,Beron Stark,no_title,1,Northmen,House Stark,0,1,0,0,0,1,1,42.0,1,0,0,0,0
+936,Bhakaz zo Loraq,no_title,1,Ghiscari,House of Loraq,0,0,0,0,1,0,1,42.0,1,0,0,0,0
+937,Bethany Redwyne,no_title,0,unknown,House Redwyne,1,0,0,0,0,1,1,35.0,1,0,0,0,0
+938,Bethany Rosby,Lady,0,unknown,House Rosby,0,1,1,1,1,1,1,17.0,0,1,1,0,0
+939,Black Bernarr,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+940,Betharios of Braavos,no_title,0,unknown,House Frey,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+941,Boremund Harlaw,no_title,1,Ironborn,House Harlaw of Harridan Hill,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+942,Bradamar Frey,no_title,1,unknown,House Frey,0,1,1,1,0,0,0,16.0,1,0,1,0,0
+943,Branston Cuy,Lord,0,unknown,House Cuy,0,0,0,1,0,0,1,35.0,1,1,0,0,0
+944,Brandon Tallhart,no_title,1,Northmen,House Tallhart,0,1,1,1,1,0,0,21.0,1,0,1,0,0
+945,Bryan Fossoway,no_title,1,unknown,House Fossoway of Cider Hall,0,1,0,0,0,0,1,42.0,0,0,0,0,0
+946,Bryan Frey,no_title,1,unknown,House Frey,0,1,1,1,0,0,0,24.0,1,0,1,0,0
+947,Bryen Farring,no_title,1,unknown,House Farring,0,1,1,1,1,0,0,19.0,0,0,0,0,0
+948,Bryen Caron,Lord,1,unknown,House Caron,0,0,0,0,0,0,1,42.0,0,1,0,0,0
+949,Burton Crakehall,no_title,1,unknown,House Crakehall,1,1,1,1,0,0,1,42.0,0,0,0,0,0
+950,Craghas Drahar,no_title,1,Myrish,Kingdom of the Three Daughters,0,0,0,0,0,0,0,19.0,0,0,0,0,0
+951,Carolei Waynwood,no_title,0,unknown,House Waynwood,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+952,Lord Caswell,no_title,1,unknown,House Caswell,0,0,0,0,1,0,1,42.0,1,0,0,0,0
+953,Cayn,no_title,1,Northmen,House Stark,1,1,0,0,0,0,0,19.0,0,0,0,0,0
+954,Cerenna Lannister,no_title,0,unknown,House Lannister,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+955,Cersei Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,13.0,1,0,1,0,0
+956,Chayle,no_title,1,unknown,unknown,1,1,1,0,0,0,0,19.0,0,0,0,0,0
+957,Clarent Crakehall,no_title,0,unknown,House Crakehall,0,0,0,0,0,0,1,35.0,0,0,0,0,0
+958,Clement Crabb,no_title,1,unknown,House Crabb,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+959,Clement Piper,no_title,1,Rivermen,House Piper,1,0,1,1,1,0,1,42.0,1,0,0,0,0
+960,Cley Cerwyn,no_title,1,Northmen,House Cerwyn,0,1,1,1,1,0,1,15.0,0,0,1,0,1
+961,Clubfoot Karl,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+962,Conwy,no_title,0,unknown,Night's Watch,0,1,1,1,1,0,0,19.0,1,0,0,0,0
+963,Colin Florent,no_title,0,unknown,House Florent,0,1,1,1,0,0,1,35.0,1,0,0,0,0
+964,Colmar Frey,no_title,1,unknown,House Frey,0,1,1,1,1,0,0,17.0,1,0,1,0,0
+965,Corliss Penny,no_title,0,unknown,House Penny,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+966,Creighton Redfort,no_title,0,Valemen,House Redfort,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+967,Cuger,no_title,1,unknown,Night's Watch,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+968,Cregan Stark,no_title,1,Northmen,House Stark,1,1,0,0,0,1,1,42.0,0,0,0,0,0
+969,Cyrenna Swann,no_title,0,unknown,House Swann,0,1,1,1,1,1,0,13.0,0,0,1,0,0
+970,Cynthea Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,15.0,1,0,1,0,0
+971,Daegon Shepherd,no_title,0,Ironborn,House Shepherd,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+972,Daeron Vaith,Lord,0,Dornish,House Vaith,0,0,0,1,1,0,1,35.0,1,1,0,0,0
+973,Dafyn Vance,no_title,0,unknown,House Vance,0,1,1,1,0,1,1,35.0,1,0,0,0,0
+974,Dagon Greyjoy,Lord,1,Ironborn,House Greyjoy,0,0,0,1,1,0,1,42.0,1,1,0,0,0
+975,Dalbridge,no_title,1,unknown,Night's Watch,0,1,1,1,1,0,0,45.0,0,0,1,0,0
+976,Damon Paege,no_title,1,unknown,House Paege,0,1,1,1,0,0,1,42.0,1,0,0,0,0
+977,Damon Shett,no_title,0,unknown,House Shett of Gull Tower,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+978,Damon Vypren,no_title,0,unknown,House Vypren,0,1,1,1,0,0,1,40.0,1,0,1,0,0
+979,Dancy,no_title,0,unknown,Chataya's brothel,0,1,1,1,1,0,0,19.0,1,0,0,0,0
+980,Dareon,no_title,1,unknown,Night's Watch,1,1,1,1,1,0,0,19.0,0,0,0,0,0
+981,Darlessa Marbrand,no_title,0,unknown,House Marbrand,1,1,1,0,1,1,0,19.0,1,0,0,0,0
+982,Daryn Hornwood,no_title,1,Northmen,House Hornwood,1,0,0,0,1,0,0,19.0,0,0,0,0,0
+983,Danwell Frey,no_title,1,unknown,House Frey,1,1,1,1,1,1,1,53.0,1,0,1,0,0
+984,Deana Hardyng,no_title,0,unknown,House Hardyng,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+985,Delena Florent,no_title,0,unknown,House Florent,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+986,Della Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,9.0,1,0,1,0,0
+987,Delp,no_title,0,unknown,House Tully,0,1,1,1,1,0,0,19.0,0,0,0,0,0
+988,Delonne Allyrion,no_title,0,Dornish,House Allyrion,0,0,1,1,1,0,1,35.0,1,0,0,0,0
+989,Denys Darklyn,no_title,1,unknown,House Darklyn,0,0,0,1,0,1,1,42.0,1,0,0,0,0
+990,Denys Arryn,no_title,0,unknown,House Arryn,0,0,1,1,0,0,1,35.0,0,0,0,0,0
+991,Dermot,no_title,0,unknown,House Baratheon of Dragonstone,0,1,1,1,0,0,1,35.0,1,0,0,0,0
+992,Desmond,no_title,0,unknown,House Stark,1,1,0,0,1,0,0,19.0,0,0,0,0,0
+993,Desmond Redwyne,no_title,1,unknown,House Redwyne,0,0,0,1,0,1,1,42.0,1,0,0,0,0
+994,Deziel Dalt,no_title,1,unknown,House Dalt,0,0,1,1,1,0,1,42.0,1,0,0,0,0
+995,Dickon Tarly,no_title,1,unknown,House Tarly,1,0,0,1,1,1,0,18.0,1,0,1,0,0
+996,Dickon Frey,no_title,1,unknown,House Frey,0,1,1,1,0,0,0,11.0,1,0,1,0,0
+997,Dirk,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+998,Dolf,no_title,0,Vale mountain clans,Stone Crows,1,1,0,0,1,0,0,19.0,1,0,0,0,0
+999,Donnel Haigh,no_title,1,unknown,House Haigh,0,1,1,1,0,0,1,50.0,1,0,1,0,0
+1000,Donnel of Duskendale,no_title,1,unknown,Kingsguard,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+1001,Donnel Locke,no_title,0,unknown,House Locke,0,1,1,1,0,0,1,35.0,0,0,0,0,0
+1002,Donnel Waynwood,no_title,0,unknown,House Waynwood,1,1,1,1,1,0,1,28.0,1,0,1,0,0
+1003,Donnor Stark,no_title,1,Northmen,House Stark,0,1,0,0,0,0,1,42.0,1,0,0,0,0
+1004,Dormund,no_title,1,Free Folk,unknown,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1005,Duram Bar Emmon,no_title,0,unknown,House Bar Emmon,0,1,1,1,0,0,1,21.0,1,0,1,0,0
+1006,Ebben,no_title,1,unknown,Night's Watch,0,1,1,1,1,0,0,19.0,0,0,0,0,0
+1007,Edderion Stark,King,1,Northmen,House Stark,0,1,0,0,0,0,1,42.0,1,1,0,0,0
+1008,Edmyn Tully,no_title,1,Rivermen,House Tully,1,0,1,0,0,0,1,42.0,1,0,0,0,0
+1009,Eddara Tallhart,Lady,0,Northmen,House Tallhart,0,1,1,1,1,0,1,16.0,1,1,1,0,0
+1010,Edrick Stark,King,1,Northmen,House Stark,0,1,0,0,1,0,1,42.0,1,1,0,0,0
+1011,Edwyd Fossoway,no_title,1,unknown,House Fossoway of Cider Hall,0,1,0,0,0,0,1,42.0,0,0,0,0,0
+1012,Edwyn Stark,King,0,Northmen,House Stark,0,1,0,0,0,0,1,35.0,1,1,0,0,0
+1013,Edwyle Stark,no_title,1,Northmen,House Stark,0,1,0,0,0,1,1,42.0,1,0,0,0,0
+1014,Elder Brother,no_title,1,unknown,Faith of the Seven,0,0,0,1,0,0,1,50.0,1,0,1,0,0
+1015,Elbert Arryn,no_title,1,unknown,House Arryn,0,1,0,1,0,0,1,42.0,0,0,0,0,0
+1016,Eleanor Mooton,no_title,0,unknown,House Mooton,0,0,0,1,1,1,0,19.0,1,0,1,0,0
+1017,Ellery Vance,no_title,1,unknown,House Vance of Atranta,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+1018,Elron,no_title,0,unknown,Night's Watch,0,1,1,1,1,0,0,19.0,1,0,0,0,0
+1019,Elinor Tyrell,no_title,0,unknown,House Tyrell,0,0,1,1,1,0,0,19.0,1,0,1,0,0
+1020,Elmar Frey,no_title,1,unknown,House Frey,1,1,1,1,1,0,0,15.0,1,0,1,0,0
+1021,Elwood,no_title,0,unknown,House Tully,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1022,Elwood Meadows,no_title,1,Reach,House Meadows,0,1,1,1,1,0,1,27.0,1,0,1,0,0
+1023,Elyana Vypren,no_title,0,unknown,House Vypren,0,1,1,1,0,1,0,41.0,1,0,1,0,0
+1024,Elyn Norridge,no_title,0,unknown,House Norridge,0,0,1,1,0,1,0,19.0,1,0,0,0,0
+1025,Emberlei Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,9.0,1,0,1,0,0
+1026,Endrew Tarth,no_title,1,unknown,House Tarth,1,1,1,0,0,0,1,42.0,0,0,0,0,0
+1027,Eroeh,no_title,0,Lhazareen,unknown,1,1,0,0,1,0,0,19.0,0,0,0,0,0
+1028,Eon Hunter,no_title,1,unknown,House Hunter,1,1,1,1,1,0,1,42.0,0,0,0,0,0
+1029,Ermesande Hayford,no_title,0,unknown,House Hayford,0,1,1,1,1,1,1,7.0,1,0,1,0,0
+1030,Erena Glover,no_title,0,Northmen,House Glover,0,1,1,1,0,0,0,8.0,1,0,1,0,0
+1031,Erren Florent,no_title,1,unknown,House Florent,0,1,1,1,0,0,1,42.0,1,0,0,0,0
+1032,Eustace Brune,no_title,1,unknown,House Brune of the Dyre Den,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+1033,Eustace Hunter,no_title,0,unknown,House Hunter,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1034,Eyron Stark,King,1,Northmen,House Stark,0,1,0,0,0,0,1,42.0,1,1,0,0,0
+1035,Ferrego Antaryon,no_title,1,Braavosi,unknown,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1036,Forley Prester,no_title,1,unknown,House Prester,1,1,1,1,0,0,1,42.0,1,0,0,0,0
+1037,Franklyn Fowler,no_title,1,Dornishmen,House Fowler,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1038,Flement Brax,no_title,1,unknown,House Brax,1,1,1,1,1,1,1,42.0,1,0,0,0,0
+1039,Frenken,no_title,0,unknown,unknown,0,1,1,1,1,0,1,35.0,1,0,0,0,0
+1040,Franklyn Frey,no_title,1,Rivermen,House Frey,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+1041,Gareth Clifton,no_title,1,unknown,House Clifton,0,0,0,1,0,1,1,42.0,1,0,0,0,0
+1042,Garrison Prester,no_title,1,unknown,House Prester,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1043,Garth of Greenaway,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1044,Garrett Flowers,no_title,0,unknown,House Tyrell,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+1045,Garse Goodbrook,no_title,1,unknown,House Goodbrook,0,1,1,1,0,1,1,42.0,1,0,0,0,0
+1046,Garse Flowers,no_title,1,unknown,House Tyrell,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+1047,Garth Greenfield,no_title,0,Westerman,House Greenfield,1,0,1,1,1,0,1,35.0,1,0,0,0,0
+1048,Garth Greyfeather,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1049,Gawen Swann,no_title,1,unknown,House Swann,0,0,0,0,0,0,1,100.0,0,0,1,0,0
+1050,Gawen Glover,no_title,1,Northmen,House Glover,0,1,1,1,0,0,0,10.0,1,0,1,0,0
+1051,Gawen Wylde,no_title,1,unknown,House Wylde,0,1,0,0,0,0,1,42.0,0,0,0,0,0
+1052,Garth Tyrell,Lord,1,unknown,House Tyrell,1,1,1,1,1,0,1,42.0,1,1,0,0,0
+1053,Gendel,no_title,1,Free Folk,unknown,0,1,1,0,0,0,1,42.0,1,0,0,0,0
+1054,Gawen Westerling,no_title,1,Westermen,House Westerling,1,1,1,1,1,1,1,42.0,1,0,0,0,0
+1055,Gerald Gower,no_title,0,unknown,House Gower,0,0,1,1,1,0,1,35.0,1,0,0,0,0
+1056,Gerold Grafton,no_title,1,unknown,House Grafton,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1057,Gerardys,no_title,1,unknown,Blacks,0,0,1,0,0,0,1,42.0,0,0,0,0,0
+1058,Gilbert Farring,no_title,1,unknown,House Farring,0,0,1,1,1,0,1,42.0,1,0,0,0,0
+1059,Glendon Hewett,no_title,1,unknown,House Hewett,0,0,1,1,1,0,1,42.0,1,0,0,0,0
+1060,Gilwood Hunter,no_title,1,unknown,House Hunter,0,0,1,1,1,0,1,55.0,1,0,1,0,0
+1061,Godric Borrell,no_title,1,Sistermen,House Borrell,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1062,Goodwin,no_title,1,unknown,House Tarth,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+1063,Gormon Peake,no_title,1,unknown,House Peake,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+1064,Gorne,no_title,1,Free Folk,unknown,0,1,1,0,0,0,1,42.0,1,0,0,0,0
+1065,Gormon Tyrell,no_title,1,unknown,Citadel,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+1066,Grazdan mo Eraz,no_title,0,Ghiscari,Wise Masters,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+1067,Grazdan mo Ullhor,Master,1,Astapori,Good Masters,0,0,1,0,0,0,1,42.0,0,1,0,0,0
+1068,Grazdar zo Galare,no_title,1,Ghiscari,House of Galare,0,0,0,0,1,0,1,42.0,1,0,0,0,0
+1069,Grubbs,no_title,0,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1070,Gueren,no_title,1,unknown,Night's Watch,1,1,1,1,0,0,0,19.0,1,0,0,0,0
+1071,Guncer Sunglass,no_title,1,unknown,House Sunglass,0,1,1,0,0,0,1,42.0,0,0,0,0,0
+1072,Gulian Swann,no_title,1,unknown,House Swann,0,1,1,0,0,0,1,46.0,1,0,1,0,0
+1073,Guthor Grimm,Lord,1,unknown,House Grimm,0,0,0,1,1,0,1,42.0,1,1,0,0,0
+1074,Gunthor Hightower,no_title,0,unknown,House Hightower,0,0,0,1,0,1,1,35.0,1,0,0,0,0
+1075,Gyldayn,no_title,1,unknown,The Citadel,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+1076,Gwayne Hightower,no_title,1,unknown,House Hightower,0,0,0,0,0,0,1,42.0,0,0,1,0,0
+1077,Hairy Hal,no_title,0,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1078,Hake,no_title,1,unknown,Night's Watch,1,1,1,0,0,0,0,19.0,0,0,0,0,0
+1079,Halder,no_title,1,unknown,Night's Watch,1,1,1,1,1,0,0,24.0,1,0,1,0,0
+1080,Hallis Mollen,no_title,1,Northmen,House Mollen,1,1,1,1,0,0,1,42.0,1,0,0,0,0
+1081,Halmon Paege,no_title,1,unknown,House Paege,0,1,1,1,1,0,1,42.0,1,0,0,0,0
+1082,Harbert,no_title,1,unknown,House Baratheon,0,1,0,0,0,0,1,42.0,1,0,0,0,0
+1083,Harlan Hunter,no_title,1,unknown,House Hunter,1,0,0,1,1,0,1,42.0,1,0,0,0,0
+1084,Harlen Tyrell,no_title,1,Reach,House Tyrell,1,0,0,0,0,0,1,42.0,0,0,0,0,0
+1085,Harmond Umber,no_title,0,Northmen,House Umber,1,0,0,0,0,0,1,35.0,1,0,0,0,0
+1086,Harmune,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,1,42.0,1,0,0,0,0
+1087,Harrold Westerling,no_title,1,Westermen,House Westerling,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+1088,Harwood Fell,no_title,1,unknown,House Fell,0,0,0,1,1,0,1,42.0,0,0,0,0,0
+1089,Harwin Strong,no_title,1,unknown,House Strong,0,0,0,0,0,0,1,30.0,0,0,1,0,0
+1090,Harwood Stout,no_title,1,Northmen,House Stout,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1091,Harys Haigh,no_title,1,unknown,House Haigh,0,1,1,1,0,0,1,51.0,1,0,1,0,0
+1092,Helman Tallhart,no_title,1,Northmen,House Tallhart,1,1,1,1,1,0,1,42.0,0,0,0,0,0
+1093,Lord Commander Hoare,Lord,1,unknown,House Hoare,1,0,0,0,0,0,1,42.0,1,1,0,0,0
+1094,Hobber Redwyne,no_title,1,Reach,House Redwyne,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+1095,Hoarfrost Umber,no_title,1,Northmen,House Umber,0,0,0,0,1,0,1,42.0,1,0,0,0,0
+1096,Hosman Norcross,no_title,1,unknown,House Norcross,0,1,1,1,0,1,1,42.0,1,0,0,0,0
+1097,Hoster Frey,no_title,1,unknown,House Frey,0,1,1,1,0,0,0,18.0,1,0,1,0,0
+1098,Horas Redwyne,no_title,1,Reach,House Redwyne,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+1099,Hubard Rambton,no_title,1,unknown,House Rambton,0,1,1,0,0,0,1,42.0,0,0,0,0,0
+1100,Horton Redfort,no_title,1,Valemen,House Redfort,0,0,1,1,1,0,1,42.0,1,0,0,0,0
+1101,Hotho Harlaw,no_title,1,Ironborn,House Harlaw of the Tower of Glimmering,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1102,Hugo Wull,no_title,1,Northern mountain clans,House Wull,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1103,Hugor of the Hill,King,1,Andals,unknown,0,0,0,0,1,0,1,42.0,1,1,0,0,0
+1104,Hugo Vance,no_title,1,unknown,House Vance of Atranta,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+1105,Hullen,no_title,1,Northmen,House Stark,1,1,1,0,1,0,1,42.0,0,0,0,0,0
+1106,Humfrey Beesbury,no_title,1,unknown,House Beesbury,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+1107,Humfrey Hardyng,no_title,1,unknown,House Hardyng,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+1108,Humfrey Swyft,no_title,0,unknown,House Swyft,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1109,Humfrey Wagstaff,no_title,0,unknown,House Wagstaff,0,0,0,1,0,0,1,75.0,1,0,1,0,0
+1110,Igon Vyrwel,no_title,0,unknown,House Vyrwel,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+1111,Jacks,no_title,0,northmen,House Stark,1,1,1,1,0,0,0,19.0,1,0,0,0,0
+1112,Janei Lannister,no_title,0,unknown,House Lannister,1,1,1,1,1,0,0,9.0,1,0,1,0,0
+1113,Jammos Frey,no_title,1,unknown,House Frey,0,1,1,1,1,1,1,39.0,1,0,1,0,0
+1114,Janna Tyrell,no_title,0,unknown,House Tyrell,1,1,1,1,1,1,0,19.0,1,0,0,0,0
+1115,Jaremy Rykker,no_title,1,unknown,Night's Watch,1,1,1,0,1,0,1,42.0,0,0,0,0,0
+1116,Jarl,no_title,1,Free Folk,unknown,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1117,Jason Lannister,no_title,1,unknown,House Lannister,0,0,0,0,0,1,1,42.0,0,0,0,0,0
+1118,Jasper Arryn,no_title,1,unknown,House Arryn,0,0,0,1,0,0,1,42.0,1,0,0,0,1
+1119,Jasper Redfort,no_title,0,Valemen,House Redfort,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1120,Jeren,no_title,1,unknown,Night's Watch,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+1121,Jeyne Arryn,no_title,0,Vale,House Arryn,0,0,0,0,0,0,1,35.0,0,0,0,0,0
+1122,Jeyne Beesbury,no_title,0,unknown,House Beesbury,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1123,Jeyne Darry,no_title,1,Westeros,House Darry,0,0,1,1,0,1,0,19.0,1,0,0,0,0
+1124,Jeyne Goodbrook,no_title,0,unknown,House Goodbrook,0,1,1,1,0,0,0,12.0,1,0,1,0,0
+1125,Jeyne Rivers,no_title,0,unknown,House Frey,0,1,1,1,1,0,0,19.0,1,0,0,0,0
+1126,Jeyne Lydden,no_title,0,unknown,House Lydden,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1127,Joffrey Lonmouth,no_title,1,unknown,House Lonmouth,0,0,0,0,0,0,1,15.0,0,0,1,0,0
+1128,Joffrey Caswell,no_title,1,unknown,House Caswell,0,0,0,0,0,0,1,100.0,0,0,1,0,0
+1129,Jon Bettley,no_title,0,unknown,House Bettley,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1130,Jon Brax,no_title,0,unknown,House Brax,0,1,1,1,0,0,0,9.0,1,0,1,0,0
+1131,Jon Lynderly,Lord,0,unknown,House Lynderly,0,0,0,1,1,0,1,35.0,1,1,0,0,0
+1132,Jon Myre,no_title,0,Ironborn,House Myre,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+1133,Jon Redfort,no_title,0,Valemen,House Redfort,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1134,Jon Wylde,no_title,1,unknown,House Wylde,0,1,1,1,0,1,1,42.0,1,0,0,0,0
+1135,Jonos Stark,King,1,Northmen,House Stark,0,1,0,0,0,0,1,42.0,1,1,0,0,0
+1136,Jonos Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,14.0,1,0,1,0,0
+1137,Jonnel Stark,no_title,1,unknown,House Stark,0,1,0,0,0,1,1,42.0,1,0,0,0,0
+1138,Joramun,no_title,1,Free Folk,unknown,0,1,1,0,0,0,1,42.0,1,0,0,0,0
+1139,Jorah Stark,King,1,Northmen,House Stark,0,1,0,0,0,0,1,42.0,1,1,0,0,0
+1140,Jonothor Darry,no_title,1,unknown,House Darry,0,0,1,1,0,0,1,42.0,0,0,0,0,1
+1141,Jorelle Mormont,no_title,0,Northmen,House Mormont,0,0,0,1,1,0,0,27.0,1,0,1,0,0
+1142,Jyana,no_title,0,Crannogmen,House Reed,0,0,0,1,1,1,0,19.0,1,0,0,0,0
+1143,Joy Hill,no_title,0,unknown,House Lannister,1,1,1,1,1,0,0,17.0,1,0,1,0,0
+1144,Jyanna Frey,no_title,0,unknown,House Frey,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1145,Kaeth,no_title,1,unknown,unknown,0,0,1,1,0,0,1,82.0,0,0,1,0,0
+1146,Jynessa Blackmont,no_title,0,Dornish,House Blackmont,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+1147,Karlon Stark,no_title,1,Northmen,House Stark,0,0,1,0,0,0,1,42.0,1,0,0,0,0
+1148,Kedge Whiteye,no_title,1,unknown,Night's Watch,0,1,1,1,1,0,0,54.0,1,0,1,0,0
+1149,Kennos of Kayce,no_title,1,unknown,House Kenning of Kayce,0,0,1,1,1,0,1,42.0,1,0,0,0,0
+1150,Kezmya,no_title,0,Ghiscari,House of Pahl,0,0,0,0,1,0,1,35.0,1,0,0,0,0
+1151,Kyra,no_title,1,unknown,House Stark,1,1,0,1,1,0,0,20.0,0,0,1,0,0
+1152,Kyra Frey,no_title,0,unknown,House Frey,0,1,1,1,0,1,0,43.0,1,0,1,0,0
+1153,Lambert Turnberry,no_title,1,unknown,House Turnberry,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1154,Lark,no_title,1,Sistermen,Night's Watch,0,1,1,0,0,0,0,19.0,0,0,0,0,0
+1155,Larence Snow,no_title,1,Northmen,House Hornwood,0,1,1,1,0,0,0,19.0,1,0,1,0,0
+1156,Larra Blackmont,no_title,0,Dornish,House Blackmont,0,0,1,1,1,0,1,35.0,1,0,0,0,0
+1157,Lanna Lannister,no_title,0,unknown,House Lannister,0,0,1,1,1,1,0,19.0,1,0,0,0,0
+1158,Leathers,no_title,1,Wildling,Night's Watch,0,0,0,0,1,0,1,46.0,1,0,1,0,0
+1159,Left Hand Lew,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+1160,Leo Lefford,no_title,1,unknown,House Lefford,1,1,1,1,1,0,1,42.0,0,0,0,0,0
+1161,Leo Blackbar,no_title,1,unknown,House Blackbar,0,0,1,1,0,1,1,42.0,1,0,0,0,0
+1162,Leona Woolfield,no_title,0,unknown,House Woolfield,0,0,0,1,1,1,0,19.0,1,0,0,0,0
+1163,Leonette Fossoway,Lady,0,unknown,House Fossoway,0,0,1,1,1,1,1,35.0,1,1,0,0,0
+1164,Leonella Lefford,no_title,0,unknown,House Lefford,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1165,Lester Morrigen,Lord,0,unknown,House Morrigen,0,0,1,1,1,0,1,35.0,1,1,0,0,0
+1166,Lewys the Fishwife,no_title,0,unknown,House Baratheon of Dragonstone,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+1167,Lewys Lydden,Lord,0,unknown,House Lydden,1,1,1,1,1,0,1,35.0,1,1,0,0,0
+1168,Leslyn Haigh,no_title,0,unknown,House Haigh,0,1,1,1,1,1,1,35.0,1,0,0,0,0
+1169,Lomas Estermont,no_title,0,Stormlands,House Estermont,0,1,1,1,1,0,1,35.0,1,0,0,0,0
+1170,Lorent Marbrand,no_title,1,Westerman,House Marbrand,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+1171,Loreza Sand,no_title,0,Dorne,House Martell,0,0,1,1,1,0,0,12.0,1,0,1,0,1
+1172,Lothar Mallery,Lord,0,unknown,House Mallery,1,0,1,0,0,0,1,35.0,0,1,0,0,0
+1173,Lucas Corbray,no_title,0,unknown,House Corbray,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1174,Lucas Codd,no_title,0,Ironborn,House Codd,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+1175,Luceon Frey,no_title,1,unknown,Faith of the Seven,0,1,1,1,1,0,0,56.0,1,0,1,0,0
+1176,Lucias Vypren,Lord,1,unknown,House Vypren,0,1,1,1,1,1,1,42.0,1,1,0,0,0
+1177,Lucos Chyttering,Lord,1,unknown,House Chyttering,0,0,1,1,0,0,1,22.0,1,1,1,0,0
+1178,Lucion Lannister,no_title,0,unknown,House Lannister,0,0,1,1,1,0,1,35.0,1,0,0,0,0
+1179,Luthor Tyrell,Lord,1,Reach,House Tyrell,0,0,1,0,0,1,1,42.0,1,1,0,0,1
+1180,Lyanna Mormont,no_title,1,Northmen,House Mormont,0,0,0,1,1,0,0,15.0,1,0,1,0,1
+1181,Lyessa Flint,no_title,0,Northmen,House Flint of Widow's Watch,0,1,1,1,1,0,1,35.0,1,0,0,0,0
+1182,Lyman Beesbury,Master,1,unknown,House Beesbury,0,0,0,0,0,0,1,81.0,0,1,1,0,0
+1183,Lymond Goodbrook,Lord,1,unknown,House Goodbrook,0,0,1,1,1,0,1,42.0,1,1,0,0,0
+1184,Lyman Darry,Lord,0,unknown,House Darry,1,1,0,0,0,0,1,9.0,0,1,1,0,0
+1185,Lymond Lychester,no_title,1,Rivermen,House Lychester,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+1186,Lymond Vikary,no_title,1,unknown,House Vikary,0,1,1,1,1,0,1,42.0,1,0,0,0,0
+1187,Lyonel Selmy,no_title,1,unknown,House Selmy,0,0,1,0,0,0,1,42.0,1,0,0,0,0
+1188,Aggo,no_title,0,Dothraki,House Targaryen,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+1189,Alys Karstark,no_title,0,Northmen,House Karstark,0,0,1,1,1,1,0,21.0,1,0,1,0,0
+1190,Cleos Frey,no_title,1,unknown,House Frey,1,1,1,1,1,1,1,41.0,0,0,1,0,0
+1191,Dontos Hollard,no_title,1,unknown,House Hollard,1,1,1,1,0,0,1,39.0,0,0,1,0,0
+1192,Craster,no_title,1,Free Folk,unknown,0,1,1,1,1,0,0,19.0,0,0,0,0,0
+1193,Dale Seaworth,no_title,1,unknown,House Seaworth,0,1,1,1,1,0,1,42.0,0,0,0,0,0
+1194,Denys Mallister,no_title,1,unknown,House Mallister,1,1,1,1,1,0,1,60.0,1,0,1,0,0
+1195,Edric Storm,no_title,1,unknown,House Baratheon,1,1,1,1,1,0,0,18.0,1,0,1,0,0
+1196,Hosteen Frey,no_title,1,unknown,House Frey,1,1,1,1,1,1,1,56.0,1,0,1,0,0
+1197,Lyonel Corbray,no_title,1,unknown,House Corbray,0,0,0,1,1,0,1,45.0,1,0,1,0,0
+1198,Lyonel Frey,no_title,0,unknown,House Frey of Riverrun,0,1,1,1,1,1,1,46.0,1,0,1,0,0
+1199,Lyonel Strong,no_title,1,unknown,House Strong,0,0,0,0,0,1,1,42.0,0,0,0,0,0
+1200,Lythene Frey,no_title,0,unknown,House Frey,0,1,1,1,1,1,0,54.0,1,0,1,0,0
+1201,Lyra Mormont,no_title,0,Northmen,House Mormont,0,0,0,1,1,0,0,28.0,1,0,1,0,0
+1202,Maegelle Frey,no_title,0,unknown,House Frey,0,1,1,1,0,1,0,56.0,1,0,1,0,0
+1203,Mallador Locke,no_title,1,unknown,Night's Watch,0,1,1,0,0,0,1,42.0,0,0,0,0,0
+1204,Malwyn Frey,no_title,1,unknown,House Frey,0,1,1,1,0,0,0,21.0,1,0,1,0,0
+1205,Manfrey Martell,no_title,0,Dornishmen,House Martell,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1206,Margot Lannister,no_title,0,unknown,House Lannister,0,0,1,1,1,1,1,35.0,1,0,0,0,0
+1207,Maric Seaworth,no_title,1,unknown,House Seaworth,0,1,1,1,1,0,1,42.0,0,0,0,0,0
+1208,Marianne Vance,no_title,0,unknown,House Vance,0,1,1,1,0,0,0,43.0,1,0,1,0,0
+1209,Mariya Darry,no_title,0,unknown,House Darry,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1210,Marissa Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,19.0,1,0,1,0,0
+1211,Maron Martell,Prince,1,Dornish,House Martell,0,0,0,1,1,1,1,42.0,1,1,0,0,1
+1212,Maron Volmark,no_title,1,Ironborn,House Volmark,0,0,1,1,1,0,1,22.0,1,0,1,0,0
+1213,Marq Rankenfell,Lord,1,unknown,Night's Watch,0,0,1,0,0,0,1,42.0,1,1,0,0,0
+1214,Marsella Waynwood,no_title,0,unknown,House Waynwood,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1215,Matarys Targaryen,Prince,1,unknown,House Targaryen,0,0,0,0,0,0,1,25.0,0,1,1,0,0
+1216,Martyn Rivers,no_title,0,unknown,House Frey,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+1217,Martyn Lannister,no_title,1,unknown,House Lannister,0,1,1,1,1,0,0,20.0,1,0,1,0,1
+1218,Marwyn Belmore,no_title,1,unknown,House Belmore,0,1,1,1,0,0,1,42.0,1,0,0,0,0
+1219,Mathis Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,11.0,1,0,1,0,0
+1220,Matthar,no_title,1,unknown,Night's Watch,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+1221,Mawney,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1222,Medgar Tully,Lord,1,Rivermen,House Tully,0,0,0,0,0,0,1,42.0,0,1,0,0,0
+1223,Medger Cerwyn,no_title,1,Northmen,House Cerwyn,1,1,0,0,0,0,1,42.0,0,0,0,0,1
+1224,Megga Tyrell,no_title,0,unknown,House Tyrell,0,0,1,1,1,0,0,19.0,1,0,1,0,0
+1225,Meldred Merlyn,Lord,0,Ironborn,House Merlyn,0,1,1,1,1,0,1,35.0,1,1,0,0,0
+1226,Melesa Crakehall,no_title,0,unknown,House Crakehall,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1227,Melara Crane,no_title,0,unknown,House Crane,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1228,Melessa Florent,no_title,0,unknown,House Florent,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1229,Mellara Rivers,no_title,0,unknown,House Frey,0,1,1,1,1,0,0,19.0,1,0,0,0,0
+1230,Melwyn Sarsfield,no_title,1,unknown,House Sarsfield,0,0,1,1,0,1,1,42.0,1,0,0,0,0
+1231,Melwys Rivers,no_title,0,unknown,unknown,0,1,1,1,1,0,1,35.0,1,0,0,0,0
+1232,Meredyth Crane,no_title,0,unknown,House Crane,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+1233,Merianne Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,17.0,1,0,1,0,0
+1234,Merlon Crakehall,no_title,1,unknown,House Crakehall,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+1235,Mezzara,no_title,1,Ghiscari,House of Merreq,0,0,0,0,1,0,1,42.0,1,0,0,0,0
+1236,Mina Tyrell,no_title,0,unknown,House Tyrell,1,1,1,1,1,1,0,19.0,1,0,0,0,0
+1237,Moelle,no_title,0,unknown,Faith of the Seven,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+1238,Monterys Velaryon,Lord,1,unknown,House Velaryon,0,0,1,1,0,0,1,12.0,1,1,1,0,0
+1239,Moredo Prestayn,no_title,1,Braavosi,unknown,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+1240,Monford Velaryon,Lord,1,Valyrian,House Velaryon,0,1,1,0,0,0,1,42.0,0,1,0,0,0
+1241,Moribald Chester,no_title,0,unknown,House Chester,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1242,Morton Waynwood,no_title,1,unknown,House Waynwood,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+1243,Morya Frey,Lady,0,unknown,House Frey,0,1,1,1,1,1,1,37.0,1,1,1,0,0
+1244,Mullin,no_title,0,unknown,Night's Watch,0,1,1,1,1,0,1,35.0,1,0,0,0,0
+1245,Moryn Tyrell,no_title,1,unknown,House Tyrell,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+1246,Munda,no_title,1,Free Folk,unknown,0,0,1,1,1,1,0,19.0,1,0,0,0,0
+1247,Muttering Bill,no_title,1,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1248,Mushroom,no_title,1,unknown,House Targaryen,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+1249,Murmison,no_title,1,unknown,Faith of the Seven,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+1250,Mylenda Caron,no_title,1,unknown,House Caron,0,1,1,1,0,1,0,47.0,1,0,1,0,0
+1251,Myles Smallwood,King,1,unknown,House Smallwood,0,0,1,0,0,0,1,42.0,1,1,0,0,0
+1252,Myles Mooton,no_title,1,unknown,House Mooton,0,0,1,1,0,0,1,42.0,0,0,0,0,0
+1253,Myria Jordayne,no_title,1,Dornish,House Jordayne,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+1254,Myles Manwoody,no_title,1,unknown,House Manwoody,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+1255,Mysaria,no_title,0,Lysene,unknown,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+1256,Myrielle Lannister,no_title,0,unknown,House Lannister,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+1257,Noho Dimittis,no_title,1,Braavosi,Iron Bank of Braavos,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+1258,Norne Goodbrother,no_title,0,Ironborn,House Goodbrother of Shatterstone,0,1,1,1,1,0,1,35.0,1,0,0,0,0
+1259,Norbert Vance,Lord,1,unknown,House Vance of Atranta,0,0,1,1,1,0,1,42.0,1,1,0,0,0
+1260,Nymella Toland,no_title,0,Dornish,House Toland,0,0,1,1,1,0,1,35.0,1,0,0,0,0
+1261,Nysterica,no_title,0,unknown,unknown,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+1262,Ollidor,no_title,1,unknown,Faith of the Seven,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+1263,Ollo Lophand,no_title,1,Tyroshi,Night's Watch,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1264,Olyvar Frey,no_title,1,unknown,House Frey,1,1,1,1,1,0,0,24.0,1,0,1,0,1
+1265,Omer Blackberry,no_title,0,unknown,House Blackberry,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+1266,Olymer Tyrell,no_title,1,unknown,House Tyrell,0,0,1,1,0,1,1,42.0,1,0,0,0,0
+1267,Ondrew Locke,Lord,1,Northmen,House Locke,0,1,1,1,1,0,1,42.0,1,1,0,0,0
+1268,Orbert Caswell,Lord,1,unknown,House Caswell,0,0,0,1,0,0,1,42.0,0,1,0,0,0
+1269,Ordello,no_title,0,Pentoshi,unknown,0,0,0,0,1,0,1,35.0,0,0,0,0,0
+1270,Omer Florent,no_title,0,unknown,unknown,0,1,1,1,0,0,1,35.0,1,0,0,0,0
+1271,Orland of Oldtown,no_title,1,unknown,House Baratheon of King's Landing,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+1272,Ormond Yronwood,no_title,0,unknown,House Yronwood,0,0,0,0,0,0,1,35.0,1,0,0,0,0
+1273,Orphan Oss,no_title,0,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1274,Osbert Serry,Lord,0,unknown,House Serry,0,0,0,1,1,0,1,35.0,1,1,0,0,0
+1275,Osmund Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,8.0,1,0,1,0,0
+1276,Oswell Kettleblack,no_title,1,unknown,House Kettleblack,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+1277,Ossifer Plumm,Lord,1,unknown,House Plumm,0,0,1,1,1,1,1,42.0,0,1,0,0,0
+1278,Otho Bracken,no_title,1,unknown,House Bracken,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+1279,Ottyn Wythers,no_title,0,unknown,House Wythers,0,1,1,0,0,0,1,69.0,0,0,1,0,0
+1280,Owen Norrey,no_title,0,Northern mountain clans,House Norrey,0,0,1,1,0,0,0,19.0,0,0,0,0,0
+1281,Pate of the Blue Fork,no_title,1,unknown,House Frey,0,1,1,1,0,1,1,42.0,0,0,0,0,0
+1282,Patrek Mallister,no_title,1,unknown,House Mallister,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+1283,Patrek Vance,no_title,0,unknown,House Vance,0,1,1,1,0,0,0,41.0,1,0,1,0,0
+1284,Perriane Frey,no_title,0,unknown,House Haigh,0,1,1,1,1,1,0,64.0,1,0,1,0,0
+1285,Perra Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,11.0,1,0,1,0,0
+1286,Perwyn Frey,no_title,1,unknown,House Frey,1,1,1,1,1,0,1,36.0,1,0,1,0,0
+1287,Philip Foote,no_title,1,unknown,House Foote,0,1,1,0,1,0,1,42.0,1,0,0,0,0
+1288,Philip Plumm,Lord,1,unknown,House Plumm,0,0,1,1,1,0,1,42.0,1,1,0,0,0
+1289,Pono,no_title,0,Dothraki,unknown,1,1,1,1,1,0,1,35.0,1,0,0,0,0
+1290,Qarro Volentin,no_title,0,Braavosi,unknown,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+1291,Qarlton Chelsted,Master,1,unknown,House Chelsted,0,0,1,1,0,0,1,42.0,0,1,0,0,0
+1292,Lord Commander Qorgyle,Lord,1,unknown,House Qorgyle,0,0,1,0,0,0,1,42.0,0,1,0,0,0
+1293,Quent,no_title,1,northmen,House Stark,1,1,1,1,0,0,0,19.0,1,0,0,0,0
+1294,Quenten Banefort,no_title,1,unknown,House Banefort,1,0,1,1,1,0,1,42.0,1,0,0,0,0
+1295,Quenton Hightower,no_title,1,unknown,House Hightower,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+1296,Quentyn Ball,no_title,1,unknown,House Ball,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+1297,Quentyn Qorgyle,no_title,0,unknown,House Qorgyle,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1298,Quincy Cox,no_title,1,unknown,House Cox,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+1299,Ragwyle,no_title,0,Free folk,unknown,0,1,1,1,1,0,0,19.0,1,0,0,0,0
+1300,Ralf Kenning,no_title,1,Ironborn,House Kenning of Harlaw,0,0,0,1,1,0,1,42.0,0,0,0,0,0
+1301,Raymun Redbeard,no_title,1,free folk,unknown,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+1302,Raynard,no_title,1,unknown,Faith of the Seven,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+1303,Raynald Westerling,no_title,1,unknown,House Westerling,0,0,1,1,0,0,1,42.0,0,0,0,0,0
+1304,Red Alyn of the Rosewood,no_title,1,unknown,Night's Watch,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+1305,Raynard Ruttiger,no_title,0,unknown,House Ruttiger,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1306,Raymund Frey,no_title,1,unknown,House Frey,0,1,1,1,1,1,1,41.0,1,0,1,0,0
+1307,Regenard Estren,no_title,0,unknown,House Estren,1,0,1,1,1,0,1,35.0,1,0,0,0,0
+1308,Renly Norcross,no_title,1,unknown,House Norcross,0,1,1,1,0,0,0,9.0,1,0,1,0,0
+1309,Renfred Rykker,no_title,1,unknown,House Rykker,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1310,Rhea Royce,no_title,0,unknown,House Royce,0,0,0,0,0,1,1,35.0,0,0,0,0,0
+1311,Rennifer Longwaters,no_title,1,unknown,House Longwaters,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1312,Rhea Florent,no_title,0,unknown,House Florent,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1313,Rhogoro,no_title,1,Dothraki,unknown,1,0,0,1,0,0,1,42.0,1,0,0,0,0
+1314,Rickard Ryswell,no_title,1,Northmen,House Ryswell,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+1315,Rickard Thorne,no_title,1,unknown,House Thorne,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+1316,Rickard Wylde,no_title,0,unknown,House Wylde,0,1,1,1,0,0,0,10.0,1,0,1,0,0
+1317,Robert Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,19.0,1,0,1,0,0
+1318,Robert Flowers,no_title,1,unknown,Kingsguard,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+1319,Robert Brax,no_title,0,unknown,House Brax,0,1,1,0,0,0,1,35.0,0,0,0,0,0
+1320,Robin Hill,Lord,1,unknown,Night's Watch,0,0,1,0,0,0,1,42.0,1,1,0,0,0
+1321,Robin Flint,Lord,0,unknown,House Flint of Widow's Watch,1,1,1,1,0,0,1,35.0,0,1,0,0,0
+1322,Robin Moreland,Lord,1,unknown,House Moreland,0,0,0,1,1,0,1,42.0,1,1,0,0,0
+1323,Robin Ryger,no_title,1,unknown,House Ryger,1,1,1,1,1,0,1,68.0,1,0,1,0,0
+1324,Rodrik Flint,Lord,1,unknown,House Flint,0,0,1,0,0,0,1,42.0,1,1,0,0,0
+1325,Rodrik Stark,King,1,Northmen,House Stark,1,0,0,0,0,0,1,42.0,1,1,0,0,0
+1326,Rodrik Ryswell,no_title,1,Northmen,House Ryswell,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1327,Roger Hogg,no_title,1,unknown,House Hogg,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+1328,Rodwell Stark,no_title,1,Northmen,House Stark,0,1,0,0,0,1,1,42.0,1,0,0,0,0
+1329,Rolland Longthorpe,no_title,0,unknown,House Longthorpe,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1330,Rolland Uffering,no_title,1,unknown,House Uffering,0,0,0,0,0,1,1,42.0,1,0,0,0,0
+1331,Ronel Rivers,no_title,0,unknown,House Frey,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+1332,Ronald Connington,no_title,1,unknown,House Connington,0,0,0,0,1,0,1,42.0,1,0,0,0,0
+1333,Ronald Vance,no_title,1,unknown,House Vance of Atranta,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+1334,Roro Uhoris,no_title,1,Tyroshi,unknown,0,0,1,0,1,0,1,42.0,1,0,0,0,0
+1335,Royce Coldwater,no_title,0,unknown,House Coldwater,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+1336,Rufus Leek,no_title,0,unknown,House Leek,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1337,Rugen,no_title,1,unknown,unknown,1,0,1,1,0,0,1,42.0,1,0,0,0,0
+1338,Runcel Hightower,Lord,1,unknown,House Hightower,0,0,1,0,0,0,1,42.0,1,1,0,0,0
+1339,Rupert Brax,no_title,1,unknown,House Brax,0,1,1,0,0,0,1,42.0,0,0,0,0,0
+1340,Rycherd Crane,no_title,0,unknown,House Crane,0,1,1,1,0,1,1,35.0,1,0,0,0,0
+1341,Ryam Redwyne,no_title,1,unknown,House Redwyne,1,1,1,1,0,0,1,42.0,0,0,0,0,0
+1342,Ryam Florent,no_title,1,unknown,House Florent,0,1,1,1,0,0,1,42.0,1,0,0,0,0
+1343,Ryger Rivers,no_title,1,unknown,House Frey,1,1,1,1,1,0,0,19.0,1,0,0,0,1
+1344,Ryella Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,11.0,1,0,1,0,0
+1345,Ryella Royce,no_title,0,unknown,House Royce,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1346,Rylene Florent,no_title,0,unknown,House Florent,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1347,Ryon Allyrion,no_title,1,Dornish,House Allyrion,0,0,1,1,1,1,1,42.0,1,0,0,0,0
+1348,Saera Targaryen,no_title,1,Valyrian,House Targaryen,0,0,0,0,0,0,1,100.0,0,0,1,0,0
+1349,Sallei Paege,no_title,0,unknown,House Paege,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1350,Sandor Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,18.0,1,0,1,0,0
+1351,Sarya Whent,Lady,0,unknown,House Whent,0,1,1,1,1,1,1,35.0,1,1,0,0,0
+1352,Sarra Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,20.0,1,0,1,0,0
+1353,Sawane Botley,no_title,1,Ironborn,House Botley,0,1,1,1,0,0,1,42.0,0,0,0,0,0
+1354,Scolera,no_title,0,unknown,Faith of the Seven,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+1355,Sebaston Farman,no_title,1,Westerman,House Farman,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1356,Selwyn Tarth,no_title,1,unknown,House Tarth,0,1,1,1,1,0,0,60.0,1,0,1,0,0
+1357,Selmond Stackspear,Lord,0,unknown,House Stackspear,0,0,1,1,1,0,1,35.0,1,1,0,0,0
+1358,Serala,no_title,0,Myrish,House Darklyn,0,0,0,1,0,1,1,35.0,1,0,0,0,0
+1359,Serwyn of the Mirror Shield,no_title,1,unknown,Kingsguard,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+1360,Serra Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,20.0,1,0,1,0,0
+1361,Shella Whent,no_title,0,Rivermen,House Whent,1,1,1,1,1,1,1,35.0,0,0,0,0,1
+1362,Shierle Swyft,no_title,0,unknown,House Swyft,0,0,1,1,0,1,0,19.0,1,0,0,0,0
+1363,Shiera Crakehall,no_title,0,unknown,House Crakehall,0,0,1,1,1,1,0,19.0,1,0,0,0,0
+1364,Shirei Frey,no_title,0,unknown,House Frey,0,1,1,1,1,0,0,13.0,1,0,1,0,0
+1365,Simon Staunton,no_title,1,unknown,House Staunton,0,0,0,0,0,1,1,42.0,1,0,0,0,0
+1366,Sigfryd Harlaw,Master,1,Ironborn,House Harlaw of Harlaw Hall,0,0,0,1,1,0,1,42.0,1,1,0,0,0
+1367,Lord Staunton,no_title,1,unknown,House Staunton,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+1368,Stannis Seaworth,no_title,1,unknown,House Seaworth,0,1,1,1,1,0,0,16.0,1,0,1,0,0
+1369,Steffon Seaworth,no_title,1,unknown,House Seaworth,0,1,1,1,1,0,0,12.0,1,0,1,0,0
+1370,Steffon Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,42.0,1,0,1,0,0
+1371,Steffon Swyft,no_title,1,unknown,House Swyft,0,0,1,1,1,0,1,42.0,1,0,0,0,0
+1372,Steffon Darklyn,no_title,0,unknown,House Darklyn,0,0,0,0,0,0,1,35.0,0,0,0,0,0
+1373,Steffon Stackspear,no_title,0,unknown,House Stackspear,0,0,1,1,0,0,1,35.0,1,0,0,0,0
+1374,Sumner Crakehall,no_title,1,unknown,House Crakehall,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+1375,Sylas Flatnose,King,1,Ironborn,unknown,0,0,0,1,0,0,1,42.0,1,1,0,0,0
+1376,Sybell Spicer,no_title,0,unknown,House Spicer,0,0,1,1,0,1,1,35.0,1,0,0,0,0
+1377,Symon Santagar,no_title,1,unknown,House Santagar,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1378,Sybelle Glover,no_title,0,Northmen,House Locke,0,1,1,1,1,1,1,35.0,1,0,0,0,0
+1379,Sylwa Paege,no_title,0,unknown,House Paege,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1380,Symon Hollard,no_title,1,unknown,House Hollard,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+1381,Symond Templeton,no_title,0,unknown,House Templeton,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1382,Symond Frey,no_title,1,unknown,House Frey,0,1,1,1,1,1,0,48.0,0,0,1,0,0
+1383,Tallad,no_title,1,unknown,House Baratheon of King's Landing,0,1,1,1,1,0,1,42.0,1,0,0,0,0
+1384,Tanton Fossoway,no_title,0,unknown,House Fossoway of Cider Hall,0,1,1,1,1,0,1,35.0,1,0,0,0,0
+1385,Ternesio Terys,no_title,1,Braavosi,unknown,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+1386,Terrence Kenning,no_title,0,unknown,House Kenning of Kayce,0,0,1,1,1,0,1,35.0,1,0,0,0,0
+1387,Theodan Wells,no_title,0,Northmen,House Wells,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1388,Terrence Toyne,no_title,1,unknown,House Toyne,0,0,1,1,1,0,1,42.0,0,0,0,0,0
+1389,Theodore Tyrell,no_title,1,unknown,House Tyrell,0,0,1,1,0,1,1,42.0,1,0,0,0,0
+1390,Theomar Smallwood,no_title,1,unknown,House Smallwood,0,0,1,1,1,1,1,42.0,1,0,0,0,0
+1391,Theomore Harlaw,Lord,1,unknown,House Harlaw,0,0,0,1,0,0,1,42.0,1,1,0,0,0
+1392,Tim Tangletongue,no_title,0,unknown,Night's Watch,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+1393,Three-Tooth,no_title,0,Ironborn,House Harlaw,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+1394,Titus Peake,no_title,1,unknown,House Peake,0,0,1,1,1,1,1,42.0,1,0,0,0,0
+1395,Tion Frey,no_title,1,unknown,unknown,1,1,1,1,1,0,0,20.0,0,0,1,0,0
+1396,Todder,no_title,1,unknown,Night's Watch,1,1,1,0,1,0,0,19.0,1,0,0,0,0
+1397,Tomard,no_title,1,northmen,House Stark,1,1,1,0,1,0,0,49.0,0,0,1,0,0
+1398,Tommen Costayne,no_title,0,unknown,House Costayne,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+1399,Torbert,no_title,1,unknown,Faith of the Seven,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+1400,Torren Liddle,no_title,0,Northern mountain clans,House Liddle,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1401,Torwynd,no_title,1,Free Folk,unknown,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1402,Trebor Jordayne,Lord,0,unknown,House Jordayne,0,0,0,1,1,0,1,35.0,1,1,0,0,0
+1403,Tremond Gargalen,no_title,0,Dornish,House Gargalen,0,0,1,1,1,0,1,35.0,1,0,0,0,0
+1404,Tristan Mudd,Lord,1,unknown,House Mudd,0,0,1,0,0,0,1,42.0,1,1,0,0,0
+1405,Triston of Tally Hill,no_title,0,unknown,House Sunglass,0,0,1,1,1,0,1,35.0,1,0,0,0,0
+1406,Triston Farwynd,no_title,0,Ironborn,House Farwynd,0,0,0,1,1,0,1,35.0,1,0,0,0,0
+1407,Triston Sunderland,no_title,1,unknown,House Sunderland,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1408,Tybolt Hetherspoon,no_title,1,unknown,House Hetherspoon,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1409,Tybolt Crakehall,no_title,1,unknown,House Crakehall,0,0,1,1,0,0,1,42.0,1,0,0,0,0
+1410,Tybolt Lannister,no_title,1,Westerman,House Lannister,0,0,0,0,0,1,1,42.0,0,0,0,0,0
+1411,Tyana Wylde,no_title,0,unknown,House Wylde,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1412,Tyta Frey,no_title,0,unknown,House Frey,0,1,1,1,1,0,0,36.0,1,0,1,0,0
+1413,Tyrek Lannister,no_title,1,unknown,House Lannister,1,1,1,1,1,1,0,13.0,0,0,1,0,0
+1414,Tysane Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,13.0,1,0,1,0,0
+1415,Tytos Brax,no_title,1,unknown,House Brax,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+1416,Tytos Frey,no_title,1,unknown,House Frey,0,1,1,1,0,1,1,38.0,0,0,1,0,0
+1417,Tywin Frey,no_title,1,unknown,House Frey,0,1,1,1,1,0,1,18.0,1,0,1,0,0
+1418,Ulrick Dayne,no_title,1,Dornish,House Dayne,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+1419,Ulwyck Uller,no_title,1,unknown,House Uller,0,0,1,1,1,0,1,42.0,1,0,0,0,0
+1420,Unella,no_title,0,unknown,Faith of the Seven,0,0,0,1,1,0,0,19.0,1,0,0,0,0
+1421,Utherydes Wayn,no_title,0,unknown,House Wayn,1,1,1,1,1,0,1,68.0,1,0,1,0,0
+1422,Uthor Tollett,no_title,0,Valemen,House Tollett,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+1423,Vaemond Velaryon,no_title,1,Valyrian,House Velaryon,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+1424,Valaena Velaryon,no_title,0,Valyrian,House Velaryon,0,0,0,0,0,1,1,35.0,1,0,0,0,0
+1425,Vayon Poole,no_title,1,unknown,House Poole,1,1,0,0,0,0,1,42.0,0,0,0,0,0
+1426,Vickon Greyjoy,Lord,0,unknown,House Greyjoy,1,1,1,1,0,0,1,35.0,0,1,0,0,0
+1427,Viserys Plumm,Lord,0,unknown,House Plumm,0,0,0,0,1,0,1,100.0,0,1,1,0,0
+1428,Vylarr,no_title,1,unknown,House Lannister,0,1,1,1,1,0,1,42.0,1,0,0,0,0
+1429,Vortimer Crane,no_title,0,unknown,House Crane,1,1,1,1,1,0,1,35.0,1,0,0,0,0
+1430,Walda Rivers,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,11.0,1,0,1,0,0
+1431,Walder Haigh,no_title,0,unknown,House Haigh,0,1,1,1,0,0,0,11.0,1,0,1,0,0
+1432,Walder Brax,no_title,0,unknown,House Brax,0,1,1,1,0,0,0,12.0,1,0,1,0,0
+1433,Walder Goodbrook,no_title,1,unknown,House Goodbrook,0,1,1,1,0,0,0,15.0,1,0,1,0,0
+1434,Waldon Wynch,Lord,1,Ironborn,House Wynch,0,1,1,1,1,0,1,42.0,1,1,0,0,0
+1435,Wallace Waynwood,no_title,1,unknown,House Waynwood,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1436,Walgrave,no_title,1,unknown,Maesters,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+1437,Walder Vance,no_title,1,unknown,House Vance,0,1,1,1,0,0,0,42.0,1,0,1,0,0
+1438,Walton Stark,King,1,unknown,House Stark,0,1,0,0,0,0,1,42.0,1,1,0,0,0
+1439,Walton Frey,no_title,1,unknown,House Frey,0,1,1,1,0,1,0,56.0,1,0,1,0,0
+1440,Warryn Beesbury,Lord,0,unknown,House Beesbury,0,0,0,1,0,0,1,35.0,1,1,0,0,0
+1441,Waltyr Frey,no_title,1,unknown,House Frey,0,1,1,1,1,0,0,16.0,1,0,1,0,0
+1442,Wendel Frey,no_title,1,unknown,House Frey,0,1,1,1,1,0,0,19.0,1,0,1,0,0
+1443,Whalen Frey,no_title,1,unknown,House Frey,1,1,1,1,1,1,1,38.0,1,0,1,0,0
+1444,Willamen Frey,no_title,1,unknown,unknown,0,1,1,1,1,0,1,33.0,1,0,1,0,0
+1445,Willam Wells,no_title,1,Dornish,House Wells,0,0,0,0,1,0,1,42.0,0,0,0,0,0
+1446,Willem Darry,no_title,1,unknown,House Darry,1,1,1,0,1,0,1,42.0,0,0,0,0,1
+1447,Willam Wythers,no_title,1,unknown,House Wythers,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+1448,Willem Lannister,no_title,1,unknown,House Lannister,1,1,1,1,1,0,0,14.0,0,0,1,0,1
+1449,Willem Frey,no_title,1,unknown,House Frey,0,1,1,1,1,0,0,16.0,1,0,1,0,0
+1450,Willam Stark,no_title,1,Northmen,House Stark,0,1,0,0,0,1,1,42.0,0,0,0,0,0
+1451,William Mooton,no_title,1,unknown,House Mooton,0,1,1,1,1,0,1,42.0,1,0,0,0,0
+1452,Wynton Stout,no_title,1,Northmen,House Stout,0,0,1,1,0,0,1,86.0,1,0,1,0,0
+1453,Wynafrei Whent,no_title,0,unknown,House Whent,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1454,Ysilla Royce,no_title,1,Valemen,House Royce,0,0,0,1,1,1,0,19.0,1,0,0,0,0
+1455,Zachery Frey,no_title,1,unknown,House Frey,0,1,1,1,0,0,0,18.0,1,0,1,0,0
+1456,Zhoe Blanetree,no_title,0,unknown,House Blanetree,0,1,1,1,0,1,0,19.0,1,0,0,0,0
+1457,Zia Frey,no_title,0,unknown,House Frey,0,1,1,1,0,0,0,20.0,1,0,1,0,0
+1458,Addam Marbrand,no_title,1,unknown,House Marbrand,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+1459,Aegor Rivers,no_title,1,unknown,House Bracken,0,0,0,1,1,1,1,69.0,0,0,1,0,1
+1460,Aenys Frey,no_title,1,unknown,House Frey,1,1,1,1,1,1,1,60.0,0,0,1,0,0
+1461,Aerion Targaryen,Prince,1,Valyrian,House Targaryen,0,1,1,0,1,1,1,41.0,0,1,1,0,1
+1462,Aemond Targaryen,no_title,1,Valyrian,House Targaryen,0,0,0,0,1,0,1,20.0,0,0,1,0,1
+1463,Amerei Frey,Lady,0,unknown,House Frey,0,1,1,1,0,1,1,23.0,1,1,1,0,0
+1464,Androw Ashford,no_title,1,Reach,House Ashford,0,0,0,0,0,0,1,42.0,1,0,0,0,0
+1465,Anders Yronwood,no_title,1,unknown,House Yronwood,0,0,1,1,1,0,1,42.0,1,0,0,0,0
+1466,Arnolf Karstark,no_title,1,Northmen,House Karstark,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1467,Arya Stark,no_title,0,Northmen,House Stark,1,1,1,1,1,0,1,16.0,1,0,1,1,1
+1468,Axell Florent,no_title,1,unknown,House Florent,0,1,1,1,1,0,1,42.0,1,0,0,0,1
+1469,Aurane Waters,no_title,1,Valyrian,House Velaryon,0,1,1,1,1,0,1,28.0,1,0,1,0,0
+1470,Ben Plumm,no_title,1,unknown,Second Sons,0,0,1,1,1,0,1,42.0,1,0,0,0,0
+1471,Benfred Tallhart,no_title,1,Northmen,House Tallhart,0,1,1,1,1,0,0,18.0,0,0,1,0,0
+1472,Boros Blount,no_title,1,unknown,House Blount,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+1473,Black Balaq,no_title,1,Summer Islander,Golden Company,0,0,0,0,0,0,0,19.0,1,0,0,0,0
+1474,Bloodbeard,no_title,0,unknown,Company of the Cat,0,0,0,0,1,0,0,19.0,1,0,0,0,0
+1475,Bran Stark,Prince,1,Northmen,House Stark,1,1,1,1,1,0,1,15.0,1,1,1,1,1
+1476,Bronn,no_title,1,unknown,House Stokeworth,1,1,1,1,1,1,1,41.0,1,0,1,0,0
+1477,Bryce Caron,no_title,1,unknown,House Caron,1,1,0,0,1,0,1,42.0,0,0,0,0,0
+1478,Butterbumps,no_title,1,unknown,House Tyrell,0,1,1,1,1,0,0,19.0,1,0,0,0,0
+1479,Cassana Estermont,no_title,1,unknown,House Estermont,0,1,1,0,1,1,0,19.0,0,0,0,0,0
+1480,Chett,no_title,1,unknown,Night's Watch,1,1,1,0,0,0,0,19.0,0,0,0,0,0
+1481,Clayton Suggs,no_title,1,unknown,House Suggs,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1482,Cersei Lannister,no_title,0,Westerlands,House Lannister,1,1,1,1,1,1,1,39.0,1,0,1,1,1
+1483,Chiswyck,no_title,0,unknown,House Clegane,0,1,1,0,0,0,0,19.0,0,0,0,0,0
+1484,Cleon,King,1,Astapori,unknown,0,0,1,1,1,0,1,42.0,0,1,0,0,0
+1485,Cohollo,no_title,1,Dothraki,Khal,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+1486,Cortnay Penrose,no_title,1,unknown,House Penrose,0,1,1,0,0,0,1,42.0,0,0,0,0,0
+1487,Cotter Pyke,no_title,1,Ironborn,Night's Watch,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+1488,Cragorn,no_title,1,unknown,House Greyjoy,0,0,0,1,1,0,0,19.0,0,0,0,0,0
+1489,Crawn,no_title,1,Vale mountain clans,Moon Brothers,0,1,0,0,0,0,0,19.0,1,0,0,0,0
+1490,Creighton Longbough,no_title,1,unknown,unknown,0,0,0,1,0,0,1,65.0,1,0,1,0,0
+1491,Cressen,no_title,1,unknown,unknown,0,1,1,1,0,0,1,80.0,0,0,1,0,0
+1492,Daario Naharis,no_title,1,Tyroshi,Stormcrows,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+1493,Dagmer,no_title,1,Ironborn,House Greyjoy,0,1,0,1,1,0,1,42.0,1,0,0,0,0
+1494,Dagos Manwoody,Lord,1,unknown,House Manwoody,0,0,1,1,1,0,1,42.0,1,1,0,0,0
+1495,Danelle Lothston,no_title,0,unknown,House Lothston,0,0,0,1,0,0,1,35.0,1,0,0,0,0
+1496,Dalla,no_title,0,Free Folk,unknown,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1497,Doran Martell,Prince,1,Dornish,House Nymeros Martell,1,1,1,1,1,1,1,58.0,1,1,1,0,1
+1498,Ebrose,no_title,1,unknown,unknown,0,0,0,1,0,0,1,42.0,1,0,0,0,0
+1499,Eddison Tollett,no_title,1,Valemen,House Tollett,0,1,1,1,1,0,0,19.0,1,0,0,0,0
+1500,Edric Dayne,Lord,1,Dornishmen,House Dayne,1,1,1,1,0,0,1,18.0,1,1,1,0,0
+1501,Edwyn Frey,no_title,1,unknown,House Frey,0,1,1,1,0,1,0,46.0,1,0,1,0,0
+1502,Eldon Estermont,no_title,1,Stormlands,House Estermont,0,1,1,1,1,1,1,77.0,1,0,1,0,0
+1503,Ellaria Sand,no_title,0,Dornish,House Uller,0,0,1,1,1,1,0,19.0,1,0,0,0,1
+1504,Ethan Glover,no_title,1,Northmen,House Glover,1,1,0,0,0,0,0,19.0,0,0,0,0,0
+1505,Emmon Frey,no_title,1,unknown,House Frey of Riverrun,1,1,1,1,1,1,1,68.0,1,0,1,0,0
+1506,Galbart Glover,Master,1,Northmen,House Glover,1,1,1,1,1,0,1,42.0,1,1,0,0,0
+1507,Gerold Hightower,no_title,1,unknown,House Hightower,1,1,1,0,0,0,1,42.0,0,0,0,0,0
+1508,Ghost of High Heart,no_title,0,unknown,unknown,0,0,1,1,1,0,0,19.0,1,0,0,0,0
+1509,Gerris Drinkwater,no_title,1,Dornish,House Drinkwater,0,0,0,0,1,0,1,30.0,1,0,1,0,0
+1510,Gilly,no_title,0,Free Folk,unknown,0,1,1,1,1,1,0,23.0,1,0,1,0,1
+1511,Greydon Goodbrother,no_title,1,Ironborn,House Goodbrother,0,0,0,1,0,0,0,19.0,1,0,0,0,0
+1512,Harmen Uller,Lord,1,unknown,House Uller,0,0,1,1,1,0,1,42.0,1,1,0,0,0
+1513,Gyles Rosby,Master,1,unknown,House Rosby,1,1,1,1,1,0,1,42.0,0,1,0,0,0
+1514,Harren Hoare,no_title,1,Ironborn,unknown,0,0,0,0,0,0,0,19.0,0,0,0,0,0
+1515,Harras Harlaw,no_title,1,Ironborn,House Harlaw of Grey Garden,0,0,0,1,1,0,1,42.0,1,0,0,0,0
+1516,Harrold Hardyng,no_title,1,Valemen,House Hardyng,0,0,0,1,1,0,1,24.0,1,0,1,0,0
+1517,Helaena Targaryen,no_title,0,unknown,House Targaryen,0,0,0,0,0,1,1,21.0,0,0,1,0,0
+1518,Hodor,no_title,1,Northmen,House Stark,1,1,1,1,1,0,0,19.0,1,0,0,0,0
+1519,Harrion Karstark,no_title,1,Northmen,House Karstark,1,1,1,1,1,0,1,42.0,1,0,0,0,1
+1520,Iggo,no_title,1,Dothraki,Brave Companions,0,0,1,0,0,0,0,19.0,0,0,0,0,0
+1521,Hother Umber,no_title,1,Northmen,House Umber,0,1,1,1,1,0,1,64.0,1,0,1,0,0
+1522,Jalabhar Xho,no_title,1,Summer Islands,Summer Islands,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+1523,Janos Slynt,Lord,1,unknown,Night's Watch,1,1,1,1,1,0,1,22.0,0,1,1,1,0
+1524,Jared Frey,no_title,1,unknown,House Frey,1,1,1,1,1,1,1,52.0,0,0,1,0,0
+1525,Jasper Wylde,no_title,1,unknown,House Wylde,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+1526,Jhaqo,no_title,0,Dothraki,unknown,1,1,1,1,1,0,1,35.0,1,0,0,0,0
+1527,Jeyne Lothston,no_title,0,unknown,House Lothston,0,0,0,0,0,0,0,100.0,0,0,1,0,0
+1528,Jhiqui,no_title,0,Dothraki,House Targaryen,1,1,1,1,1,0,0,21.0,1,0,1,0,0
+1529,Jon Bulwer,no_title,1,unknown,House Bulwer,0,0,1,1,0,1,1,42.0,1,0,0,0,0
+1530,Jory Cassel,no_title,1,Northmen,House Cassel,1,1,1,0,1,0,1,42.0,0,0,0,0,1
+1531,Jorah Mormont,no_title,1,Northmen,House Mormont,1,1,1,1,1,1,1,51.0,1,0,1,1,1
+1532,Karyl Vance,no_title,1,unknown,House Vance of Wayfarer's Rest,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+1533,Khrazz,no_title,1,Ghiscari,House of Loraq,0,0,0,0,1,0,0,23.0,0,0,1,0,0
+1534,Kurleket,no_title,1,unknown,House Bracken,1,0,0,0,0,0,0,19.0,0,0,0,0,0
+1535,Lann the Clever,no_title,1,unknown,House Lannister,1,0,0,0,0,0,0,19.0,1,0,0,0,0
+1536,Kyle Condon,no_title,1,unknown,House Condon,0,0,1,0,0,0,1,42.0,1,0,0,0,0
+1537,Lancel Lannister,no_title,1,unknown,House Lannister of Casterly Rock,1,1,1,1,1,1,1,23.0,1,0,1,0,1
+1538,Likely Luke,no_title,0,unknown,Brotherhood Without Banners,0,0,1,1,0,0,0,19.0,1,0,0,0,0
+1539,Lucas Inchfield,no_title,1,unknown,House Inchfield,0,0,0,0,0,0,1,42.0,0,0,0,0,0
+1540,Lollys Stokeworth,no_title,0,unknown,House Stokeworth,0,1,1,1,1,1,1,40.0,1,0,1,0,1
+1541,Lyanna Stark,no_title,1,Northmen,House Stark,1,1,1,0,1,0,0,17.0,0,0,1,0,1
+1542,Lyle Crakehall,no_title,1,unknown,House Crakehall,0,1,1,1,1,0,1,42.0,1,0,0,0,0
+1543,Lucas Blackwood,no_title,1,unknown,House Blackwood,0,1,1,1,1,0,0,19.0,0,0,0,0,0
+1544,Lyn Corbray,no_title,1,unknown,House Corbray,1,1,1,1,1,0,1,42.0,1,0,0,0,0
+1545,Lynesse Hightower,no_title,1,unknown,House Hightower,0,1,1,1,1,1,0,19.0,1,0,0,0,1
+1546,Mace Tyrell,no_title,1,unknown,House Tyrell,1,1,1,1,1,1,1,49.0,1,0,1,1,1
+1547,Mag Mar Tun Doh Weg,no_title,1,unknown,unknown,0,0,1,1,1,0,0,19.0,0,0,0,0,0
+1548,Mandon Moore,no_title,1,Valemen,House Moore,1,1,1,0,0,0,1,42.0,0,0,0,0,0
+1549,Mago,no_title,0,Dothraki,unknown,1,0,1,1,1,0,0,19.0,1,0,0,0,0
+1550,Maron Botley,no_title,1,unknown,House Botley,0,1,1,0,0,0,0,19.0,1,0,0,0,0
+1551,Marillion,no_title,1,unknown,unknown,1,1,1,1,0,0,0,21.0,0,0,1,0,0
+1552,Marya Seaworth,Lady,0,unknown,House Seaworth,0,1,1,1,1,1,1,35.0,1,1,0,0,1
+1553,Marwyn,no_title,1,unknown,unknown,1,0,1,1,0,0,1,42.0,1,0,0,0,0
+1554,Masha Heddle,no_title,0,unknown,unknown,1,1,0,0,0,0,0,19.0,0,0,0,0,0
+1555,Matthos Seaworth,no_title,1,unknown,House Seaworth,0,1,1,1,1,0,0,19.0,0,0,0,0,0
+1556,Meera Reed,no_title,0,Crannogmen,House Reed,0,1,1,1,1,0,0,22.0,1,0,1,0,0
+1557,Melara Hetherspoon,no_title,0,unknown,House Hetherspoon,0,0,0,1,1,0,0,12.0,0,0,1,0,0
